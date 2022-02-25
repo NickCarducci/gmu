@@ -209,7 +209,8 @@ export default class App extends React.Component {
         <a href="https://vaults.biz/gdp">every year back</a>
         <br />
         <br />
-        meanignless significance, no accounting thur
+        meaningless significance, no accounting thur,{space}
+        <a href="https://qr.ae/pGQqzh">out of their depth</a>
       </div>
     );
   }
