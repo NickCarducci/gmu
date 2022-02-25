@@ -144,11 +144,10 @@ export default class App extends React.Component {
         <br />
         <br />
         Diagnosing mental-health by drug use and then uppers as sad
-        <br />
-        <br />
-        duress, oath, moot, Conviction (evidence, corrections of warn tort jail)
-        <br />
-        <br />
+        <h4>
+          duress, oath, moot, Conviction (evidence, corrections of warn tort
+          jail)
+        </h4>
         geohash/mo precinct spoof, sure, 3% under $2k and capital loss
         deflation, don't cancel and allow universities off the hook, for force
         majeure intent donee beneficiary freedom
@@ -165,9 +164,7 @@ export default class App extends React.Component {
         <br />
         Eat my ass, it lowers Alzheimer’s presentation, cross section India:
         <br />
-        <br />
         smd be happy; rather
-        <br />
         <br />
         All you can hold is hold. Leave us alone douche
         <br />
@@ -178,11 +175,7 @@ export default class App extends React.Component {
         <br />
         NOT KNOWN HAZARD OPEN INGREDIENT LISTS! required by Tranquil and
         voluntary trade no prescripotion nor science process-making
-        <br />
-        <br />
-        Suits for mistaken holds, I’m not sure since the court isn’t
-        <br />
-        <br />
+        <h4>Suits for mistaken holds, I’m not sure since the court isn’t</h4>
         laws are bonk, intranational escalation is not a war crime, and
         livelihood encroachment, is internationally{space}
         <span role="img" aria-label="cowguy">
@@ -194,13 +187,6 @@ export default class App extends React.Component {
         language-bound-reason, but modularized and perverse consent
         <br />
         <br />
-        neither is donee-beneficiary-surrendered-freedom a decision for New
-        Jersey, but also the Federal and Lending apparatus. 1/12
-        industry-vertical max-royalty is “collateral” within bounds of what the
-        contractor can win from the signatory, for force-majeure-intent, as
-        well.
-        <br />
-        <br />
         <a href="https://carducci.us/videos">login.gov</a>
         {space}is malfeasant for convict intranet (repeat offender police
         dashboard) and Motor Vehicle NFC-widget for bridge tolls, so it can be
@@ -210,15 +196,22 @@ export default class App extends React.Component {
         Even experts are save face-able, by reverse amortization of capital
         loss, deflation (cash/debt)*income{space}
         <a href="https://vaults.biz/gdp">every year back</a>
-        <br />
-        <br />
-        meaningless significance, no accounting thur,{space}
-        <a href="https://qr.ae/pGQqzh">out of their depth</a>
-        <br />
-        <br />
+        <h4>
+          meaningless significance, no accounting thur,{space}
+          <a href="https://qr.ae/pGQqzh">out of their depth</a>
+        </h4>
         technology to stop jobs, the only Public thing is science perpetual
         motion machine or free rider immutable is Public, not operational
         monopsony like per diem incarceration bias - net loss bonds
+        <br />
+        <br />
+        Savers' land-deeds (<a href="https://qr.ae/pGQqzl">currency</a>) neither
+        is donee-beneficiary-surrendered-freedom a decision for New Jersey, but
+        also the Federal and Lending apparatus. 1/12 industry-vertical
+        max-royalty is “collateral” within bounds of what the contractor can win
+        from the signatory, for force-majeure-intent, as well.
+        <br />
+        <br />
       </div>
     );
   }
