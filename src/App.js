@@ -214,9 +214,10 @@ export default class App extends React.Component {
           meaningless significance, no accounting thur,{space}
           <a href="https://qr.ae/pGQqzh">out of their depth</a>
         </h4>
-        technology to stop jobs, the only Public thing is science perpetual
-        motion machine or free rider immutable is Public, not operational
-        monopsony like per diem incarceration bias - net loss bonds
+        <span style={{ color: "orange" }}>technology to stop</span>, the only
+        Public thing is science perpetual motion machine or free rider immutable
+        is Public, not operational monopsony like per diem incarceration bias -
+        net loss bonds
         <br />
         <br />
         Savers' land-deeds (<a href="https://qr.ae/pGQqzl">currency</a>) neither
@@ -229,7 +230,8 @@ export default class App extends React.Component {
         Treacherous
         <br />
         <br />
-        Who decides what is a crisis or a danger for your cone?
+        Who decides what is a crisis or a danger for your{space}
+        <a href="https://qr.ae/pGQqjw">cone</a>?
         <br />
         <br />
         {/* https://gist.github.com/NickCarducci/a834dbb9110400d2b118ef2fe7984f09*/}
