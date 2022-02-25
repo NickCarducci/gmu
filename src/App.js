@@ -1,6 +1,6 @@
 import React from "react";
-import Cable from "./Dropwire";
-import TwitterTweetEmbed from "./TwitterTweetEmbed";
+//import Cable from "./Dropwire";
+//import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
 
 export default class App extends React.Component {
@@ -102,6 +102,7 @@ export default class App extends React.Component {
       this.setState({
         hoverPath: ev.target.href.split(`${window.location.origin}/`)[1]
       });*/
+    const space = " ";
     return (
       <div
         style={{
@@ -137,13 +138,46 @@ export default class App extends React.Component {
         <br />
         <br />
         inflation 0y/1x efficiency, GDP/hour-GDP/p, trust-breaking hypocrisy
-        standing, criminals abound
+        standing,{space}
+        <a href="https://qr.ae/pGQqKJ">[choring-]criminals</a>
+        {space}abound
         <br />
         <br />
         Diagnosing mental-health by drug use and then uppers as sad
         <br />
         <br />
         duress, oath, moot, Conviction (evidence, corrections of warn tort jail)
+        <br />
+        <br />
+        geohash/mo precinct spoof, sure, 3% under $2k and capital loss
+        deflation, don't cancel and allow universities off the hook, for force
+        majeure intent donee beneficiary freedom
+        <br />
+        <br />
+        Omg that is none of your business. Get cops out of investment banks and
+        closed source pharmacies licensure. Teapharmacy.party/drugs
+        <br />
+        <br />
+        Ween cops off bonds (and good will): truncated production tax for
+        science perpetual motion machine or free rider immutable is Public, not
+        operational monopsony like per diem incarceration bias - net loss bonds
+        <br />
+        <br />
+        Eat my ass, it lowers Alzheimer’s presentation, cross section India:
+        <br />
+        <br />
+        smd be happy; rather
+        <br />
+        <br />
+        All you can hold is hold. Leave us alone douche
+        <br />
+        <br />
+        11/12 industry-variable conviction process-making, evidence bearing
+        immediate jail or review, now THAT is bail removal.
+        <br />
+        <br />
+        NOT KNOWN HAZARD OPEN INGREDIENT LISTS! required by Tranquil and
+        voluntary trade no prescripotion nor science process-making
       </div>
     );
   }
