@@ -184,7 +184,10 @@ export default class App extends React.Component {
         <br />
         <br />
         laws are bonk, intranational escalation is not a war crime, and
-        livelihood encroachment, is internationally 🤠
+        livelihood encroachment, is internationally{space}
+        <span role="img" aria-label="cowguy">
+          🤠
+        </span>
         <br />
         <br />
         Duress and hypocrisy, implicit grounds without laws of
@@ -211,6 +214,11 @@ export default class App extends React.Component {
         <br />
         meaningless significance, no accounting thur,{space}
         <a href="https://qr.ae/pGQqzh">out of their depth</a>
+        <br />
+        <br />
+        technology to stop jobs, the only Public thing is science perpetual
+        motion machine or free rider immutable is Public, not operational
+        monopsony like per diem incarceration bias - net loss bonds
       </div>
     );
   }
