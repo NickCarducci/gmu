@@ -202,6 +202,14 @@ export default class App extends React.Component {
         {space}is malfeasant for convict intranet (repeat offender police
         dashboard) and Motor Vehicle NFC-widget for bridge tolls, so it can be
         non-taxing
+        <br />
+        <br />
+        Even experts are save face-able, by reverse amortization of capital
+        loss, deflation (cash/debt)*income{space}
+        <a href="https://vaults.biz/gdp">every year back</a>
+        <br />
+        <br />
+        meanignless significance, no accounting thur
       </div>
     );
   }
