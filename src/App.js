@@ -2,6 +2,7 @@ import React from "react";
 //import Cable from "./Dropwire";
 //import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
+import Gist from "react-gist";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -164,7 +165,20 @@ export default class App extends React.Component {
         <br />
         Eat my ass, it lowers Alzheimer’s presentation, cross section India:
         <br />
-        smd be happy; rather
+        smd
+        <h2>
+          "How can negativity be helpful to society?"
+          <br />
+          Nick Carducci - CEO & Founder at Thumbprint.us - Social Calendar
+          (2012–present)
+          <br />
+          -GDP/p is tech advancement (pro-people), so negative people are
+          grounded-optimists; hardly are narcissists in such a way about
+          absolute measures rather than rates or change-rates, unless they are
+          critiquing quality, thereafter the assessment is again a rate by
+          /(utility-indifference).
+        </h2>
+        be happy; rather
         <br />
         All you can hold is hold. Leave us alone douche
         <br />
@@ -213,6 +227,13 @@ export default class App extends React.Component {
         <br />
         <br />
         Treacherous
+        <br />
+        <br />
+        Who decides what is a crisis or a danger for your cone?
+        <br />
+        <br />
+        {/* https://gist.github.com/NickCarducci/a834dbb9110400d2b118ef2fe7984f09*/}
+        <Gist id="a834dbb9110400d2b118ef2fe7984f09" />
       </div>
     );
   }
