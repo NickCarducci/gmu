@@ -234,6 +234,25 @@ export default class App extends React.Component {
         <a href="https://qr.ae/pGQqjw">cone</a>?
         <br />
         <br />
+        Fine lower court judges for successful appeals!
+        <br />
+        <br />
+        1775-1787 and 1814-1870 gmunit.us
+        <br />
+        <br />
+        0y/1x efficiency
+        <br />
+        <br />
+        Hysterical unconscious decisions vaults.biz/psych
+        <br />
+        <br />
+        Let them take our oil (for dollar royalty), don’t let them rent seek nor
+        take it
+        <br />
+        <br />
+        Translate poignancy Imputed carducci.us/primary
+        <br />
+        <br />
         {/* https://gist.github.com/NickCarducci/a834dbb9110400d2b118ef2fe7984f09*/}
         <Gist id="a834dbb9110400d2b118ef2fe7984f09" />
       </div>
