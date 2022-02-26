@@ -247,12 +247,27 @@ export default class App extends React.Component {
         <br />
         <br />
         Let them take our oil (for dollar royalty), don’t let them rent seek nor
-        take it
+        take it. Just let them take the oil, don’t lease it, if you are going to
+        do it. It’s called{space}
+        <a href="https://vaults.biz/royalty">max-royalties</a>, concurrentable
+        hours-, if that
         <br />
         <br />
         Translate poignancy Imputed carducci.us/primary
         <br />
         <br />
+        Engels: “The bourgeoisie gives nothing outright, but ... makes a bargain
+        with the poor, saying: ‘If I spend this much upon benevolent
+        institutions, I thereby purchase the right not to be troubled any
+        further [...by you...] exposing your misery.’”
+        <br />
+        AM: "They want uniformity, conformity."
+        <br />
+        Actually we want discretion and discerning particular appropriations
+        <br />
+        <br />
+        Time to price assets to liabilities - donee-beneficiary will repo these
+        books
         {/* https://gist.github.com/NickCarducci/a834dbb9110400d2b118ef2fe7984f09*/}
         <Gist id="a834dbb9110400d2b118ef2fe7984f09" />
       </div>
