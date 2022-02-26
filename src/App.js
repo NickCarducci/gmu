@@ -237,7 +237,7 @@ export default class App extends React.Component {
         Fine lower court judges for successful appeals!
         <br />
         <br />
-        1775-1787 and 1814-1870 gmunit.us
+        <a href="https://gmunit.com">1775-1787 and 1814-1870</a>
         <br />
         <br />
         0y/1x efficiency
