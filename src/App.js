@@ -1,5 +1,5 @@
 import React from "react";
-//import Cable from "./Dropwire";
+import Cable from "./Dropwire";
 //import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
 import Gist from "react-gist";
@@ -79,7 +79,7 @@ export default class App extends React.Component {
     }
   };
   render() {
-    /*const handleScollImgError = (e) => {
+    const handleScollImgError = (e) => {
       if (e.message) {
         console.log(e.message);
         this.setState({ serviceCancelingImages: true });
@@ -93,7 +93,7 @@ export default class App extends React.Component {
       return arrayOfnumbers;
     };
     const space = " ";
-    const scrollPath = (scrollPath) =>
+    /*const scrollPath = (scrollPath) =>
       [this.state.hoverPath, this.state.scrollPath].includes(scrollPath)
         ? "2px solid"
         : "0px solid";
@@ -103,7 +103,6 @@ export default class App extends React.Component {
       this.setState({
         hoverPath: ev.target.href.split(`${window.location.origin}/`)[1]
       });*/
-    const space = " ";
     return (
       <div
         style={{
@@ -169,7 +168,24 @@ export default class App extends React.Component {
         minimal viable product, Tranquil and voluntary trade
         <br />
         <br />
-        inflation 0y/1x efficiency, GDP/hour-GDP/p, trust-breaking hypocrisy
+        <Cable
+          style={{ width: "200px", height: "auto" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/1fcq4aa8zxh1x7t/Screen%20Shot%202022-02-28%20at%2011.29.37%20AM.png?dl=0"
+          }
+          float="left"
+          title="A declined submission to PhD economists for all Mohammad Gani, 'Why does GDP/yr=mv1==mv2?'"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
+          scrollTop={this.props.scrollTop}
+        />
+        <a href="https://qr.ae/pGd1AX">inflation</a>
+        {space}0y/1x efficiency, GDP/hour-GDP/p, trust-breaking hypocrisy
         standing,{space}
         <a href="https://qr.ae/pGQqKJ">[choring-]criminals</a>
         {space}abound
