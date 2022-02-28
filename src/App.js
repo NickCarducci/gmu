@@ -132,9 +132,11 @@ export default class App extends React.Component {
           General Maintenance Unit
         </a>
         Liam Halligan, "business editor," Stock market indices only go up due to
-        laborless-demand, not a success; the west thinks GDP/hour is
-        productivity but I think it is expenditures/hour. "Russian interest
-        rates are up nearly 20%, it is{space}
+        laborless-demand (unscience $170t 'good-will'
+        neighborhood-Land/branded-IP non-concurrentable $2t currency), not a
+        success; the west thinks GDP/hour is productivity but I think it is
+        expenditures/hour. "Russian interest rates are up nearly 20%, it is
+        {space}
         <a href="https://www.quora.com/Why-is-Russias-GDP-to-debt-ratio-so-low-Should-the-USA-be-concerned/answer/Nick-Carducci">
           collapsed and closed
         </a>
