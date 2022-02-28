@@ -316,6 +316,22 @@ export default class App extends React.Component {
         net loss bonds
         <br />
         <br />
+        <Cable
+          style={{ width: "100%", /*minWidth: "200px", */ height: "auto" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/rs0dabdf2hvro3j/Screen%20Shot%202022-02-28%20at%202.22.47%20PM.png?dl=0"
+          }
+          float="left"
+          title="Why doesn't the USA get sanctioned after all its war crimes? - https://qr.ae/pGdTGc"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
+          scrollTop={this.props.scrollTop}
+        />
         Savers' land-deeds (<a href="https://qr.ae/pGQqzl">currency</a>) neither
         is donee-beneficiary-surrendered-freedom a decision for New Jersey, but
         also the Federal and Lending apparatus. 1/12 industry-vertical
