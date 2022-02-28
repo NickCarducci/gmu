@@ -131,6 +131,18 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Liam Halligan, "business editor," Stock market indices only go up due to
+        laborless-demand, not a success; the west thinks GDP/hour is
+        productivity but I think it is expenditures/hour. "Russian interest
+        rates are up nearly 20%, it is{space}
+        <a href="https://www.quora.com/Why-is-Russias-GDP-to-debt-ratio-so-low-Should-the-USA-be-concerned/answer/Nick-Carducci">
+          collapsed and closed
+        </a>
+        ." Debt is surrendered-freedom and contractor liable, lest thee wish to
+        be a{space}
+        <a href="https://qr.ae/pGd8SQ">war criminal</a>.
+        <br />
+        <br />
         Congressman Brooke’s, the reason why masks don’t do anything is because
         you assume year-to-year, ‘excess’ deaths are a problem.
         <br />
