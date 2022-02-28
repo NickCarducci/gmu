@@ -130,6 +130,12 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        When you provide more oil from labor-borne-demand of Savers, it doesn’t
+        increase demand, just price and actually truncated the most discerning
+        Marginal Utility Indifferences, fo 1y/0x elasticity of dead-weight box,
+        BOB SELLERS ILL POUR MOLTEN GOLD DOWN YOUR THROAT
+        <br />
+        <br />
         "Do you think the society that you live in contributes to your views
         about yourself? Why or why not?"
         <br />
