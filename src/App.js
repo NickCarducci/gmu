@@ -340,6 +340,18 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
           scrollTop={this.props.scrollTop}
         />
+        Trump, 2/27/2022:
+        <br />
+        <div style={{ borderLeft: "3px solid", paddingLeft: "3px" }}>
+          “I’m the guy that ended his pipeline.”
+        </div>
+        <br />
+        Mark Levin, 2/28/2022:
+        <div style={{ borderLeft: "3px solid", paddingLeft: "3px" }}>
+          He is our enemy, he thinks he is our enemy, and he is right, choke him
+          off."
+        </div>
+        <br />
         Savers' land-deeds (<a href="https://qr.ae/pGQqzl">currency</a>) neither
         is donee-beneficiary-surrendered-freedom a decision for New Jersey, but
         also the Federal and Lending apparatus. 1/12 industry-vertical
