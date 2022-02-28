@@ -148,7 +148,23 @@ export default class App extends React.Component {
         Biden is silent and done nothing. Dollar needs to be in the foreign
         reserve currency, we will not intervene-militarily."
         <br />
-        <br />
+        <Cable
+          style={{ width: "200px", height: "auto" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/fb8e2qahxjwaipw/Screen%20Shot%202022-02-28%20at%2012.48.45%20PM.png?dl=0"
+          }
+          float="right"
+          title="Carshield false bid pool non-concurrentable (non-appointmentable, finished non-input competing with consumers intent)"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
+          scrollTop={this.props.scrollTop}
+        />
+        <h2>Surrendered-bids</h2>
         "Will the USA be provoked into the war that’s happening?"
         <br />
         Nick Carducci - Bookie at Book.com.co (2019–present)
