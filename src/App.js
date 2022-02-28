@@ -131,6 +131,19 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Congressman Brooke’s, the reason why masks don’t do anything is because
+        you assume year-to-year, ‘excess’ deaths are a problem.
+        <br />
+        Mo Brooke’s retard let’s be clear, you can’t say the{space}
+        <a href="https://vaults.biz/immi">border</a>
+        {space}is where people are getting their fentanyl laced heroine and
+        marijuana when 2% of automobiles{space}
+        <a href="https://teapharmacy.party/drug">aren’t checked</a>, and you
+        have a monopsony over healthcare with prescription costs and closed
+        ingredient lists. Consent of bills is still the chequeing of a third
+        party donee-beneficiary.
+        <br />
+        <br />
         12 industry-variance, normally. Conviction (policymaking, capacity of
         warn tort jail)
         <br />
