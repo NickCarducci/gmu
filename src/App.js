@@ -130,6 +130,24 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        "Dollar needs to be in the foreign reserve currency, we will not
+        intervene-militarily."
+        <br />
+        <br />
+        "Will the USA be provoked into the war that’s happening?"
+        <br />
+        Nick Carducci Bookie at Book.com.co (2019–present)37m
+        <br />
+        This war has been happening for 8 years, and is exasperated by NATO
+        wishing to include one side, 8 years in. I think that was because of how
+        relenting Russia is to securing and borrowing debt, that allows for
+        painting the tape with donee-beneficiary-surrendered-freedoms.
+        <br />
+        <br />
+        "He either has a strategy we aren’t keyed in on or he is mentally
+        incapacitatedly hysterical and unconscious"
+        <br />
+        <br />
         Liam Halligan, "business editor," Stock market indices only go up due to
         laborless-demand (unscience $170t 'good-will'
         neighborhood-Land/branded-IP non-concurrentable $2t currency), not a
