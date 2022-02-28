@@ -143,6 +143,10 @@ export default class App extends React.Component {
         <a href="https://qr.ae/pGd8SQ">war criminal</a>.
         <br />
         <br />
+        <a href="https://humanharvest.info/polio">
+          n{"<"}100 is a meaningless significance
+        </a>
+        .<br />
         Congressman Brooke’s, the reason why masks don’t do anything is because
         you assume year-to-year, ‘excess’ deaths are a problem.
         <br />
