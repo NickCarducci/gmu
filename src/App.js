@@ -133,7 +133,7 @@ export default class App extends React.Component {
         "Do you think the society that you live in contributes to your views
         about yourself? Why or why not?"
         <br />
-        Nick Carducci , Injured yet labeled schizophrenic for boycott credit
+        Nick Carducci - Injured yet labeled schizophrenic for boycott credit
         income
         <br />
         GDP/p is tech deprecation, and as a tech maker I want to advance people
@@ -141,16 +141,17 @@ export default class App extends React.Component {
         <br />
         <br />
         "Oh you don't want an economic recession, so why invade Ukraine.
-        Sanctions do not help by 600k/day barrels of oil. In that Teddy
-        Rosevelt, broker peace to broker war. the model is Teddy, he ended
-        brutal conflict in Russia and Japan. Biden is silent and done nothing.
-        Dollar needs to be in the foreign reserve currency, we will not
-        intervene-militarily."
+        Sanctions do not help by{space}
+        <a href="https://qr.ae/pGd1V1">600k/day</a>
+        {space}barrels of oil. In that Teddy Rosevelt, broker peace to broker
+        war. the model is Teddy, he ended brutal conflict in Russia and Japan.
+        Biden is silent and done nothing. Dollar needs to be in the foreign
+        reserve currency, we will not intervene-militarily."
         <br />
         <br />
         "Will the USA be provoked into the war that’s happening?"
         <br />
-        Nick Carducci Bookie at Book.com.co (2019–present)37m
+        Nick Carducci - Bookie at Book.com.co (2019–present)
         <br />
         This war has been happening for 8 years, and is exasperated by NATO
         wishing to include one side, 8 years in. I think that was because of how
