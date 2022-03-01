@@ -130,6 +130,9 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        China has more corporate share of debt to GDP than U.S. does…
+        <br />
+        <br />
         When you provide more oil from labor-borne-demand of Savers, it doesn’t
         increase demand, just price and actually truncated the most discerning
         Marginal Utility Indifferences, fo 1y/0x elasticity of dead-weight box,
@@ -170,7 +173,7 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
           scrollTop={this.props.scrollTop}
         />
-        <h2>Surrendered-bids, 1y/0x (elasticity)</h2>
+        <h2>Surrendered-bids,</h2>
         "Will the USA be provoked into the war that’s happening?"
         <br />
         Nick Carducci - Bookie at Book.com.co (2019–present)
