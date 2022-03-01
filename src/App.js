@@ -130,6 +130,12 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Are they going to operate in other countries only if they do not engage
+        in war, maybe that is a little different than war crimes as per
+        incentivized by bonds, or surrendered donee-beneficiary freedom bid or
+        outright.
+        <br />
+        <br />
         They can look at different laws and come to different conclusions
         because they countervail eachother
         <br />
