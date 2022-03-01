@@ -130,6 +130,8 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        This is just like involuntary commitment, eloping from medication at
+        Riverview Medical Center (nj 101.5 sponsor)
         <h3>
           down is good, growth GDP/p is bad, art of fact of tech deprecation
         </h3>
