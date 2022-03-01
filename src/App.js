@@ -130,6 +130,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        They can look at different laws and come to different conclusions
+        because they countervail eachother
+        <br />
+        <br />
         an oil and gas exporter shales revolution, Trump admin policies,
         production is down, cancel leases on federal land, line the pockets of
         the treasury instead of russia, with consumer surrogates for
