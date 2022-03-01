@@ -130,6 +130,9 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h3>
+          down is good, growth GDP/p is bad, art of fact of tech deprecation
+        </h3>
         <h4>
           "'stop trading with Russia and fighting with them with two hands!'
         </h4>
@@ -170,6 +173,22 @@ export default class App extends React.Component {
         (*Waves generally*) These are all unfair, not solutions. We need to
         amortize income tax portion **outlaid** for Medicare, and for Social
         Security, and deflate it by such **tax-rate**.
+        <br />
+        <br />
+        Guns blazing
+        <br />
+        <span role="img" aria-label="cowboy">
+          🤠
+        </span>
+        research
+        <span role="img" aria-label="bullseye">
+          🎯
+        </span>
+        designed
+        <br />
+        Tax rate depreciation like inflation 1y/0x
+        <br />
+        unproportional tort, state vic hypocrisy
         <h3>
           exploitative or illegal content is{space}
           <a href="https://thumbprint.us/speech">
