@@ -351,6 +351,28 @@ export default class App extends React.Component {
           He is our enemy, he thinks he is our enemy, and he is right, choke him
           off."
         </div>
+        "What is a clear explanation of monetary policy?"
+        <br />
+        Nick Carducci - Chairperson at Saver Party (2020–present)
+        <br />
+        Monetary policy is just currency as liability, outstanding, share of the
+        state (20% of U.S.), amortized as if actually-dissolved, that, as it
+        happens, the politicians lease back to us thru our customer-surrogate
+        corporations’ input costs.
+        <br />
+        Lidia Curanaj, 2/28/2022:
+        <br />
+        <div style={{ borderLeft: "3px solid", paddingLeft: "3px" }}>
+          “Close the border and open the spigots.”
+        </div>
+        <br />
+        Assets are, as they are, ‘good-will’ of neighborhood-Land and
+        branded-IP, non-concurrentable ($170t:$2t chequeing), priced by
+        liabilities when under the same fund.
+        <br />
+        <a href="https://qr.ae/pGdpvU">
+          There is nothing constitutional of immigration fees
+        </a>
         <br />
         Savers' land-deeds (<a href="https://qr.ae/pGQqzl">currency</a>) neither
         is donee-beneficiary-surrendered-freedom a decision for New Jersey, but
