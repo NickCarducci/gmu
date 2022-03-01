@@ -170,7 +170,7 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
           scrollTop={this.props.scrollTop}
         />
-        <h2>Surrendered-bids</h2>
+        <h2>Surrendered-bids, 1y/0x (elasticity)</h2>
         "Will the USA be provoked into the war that’s happening?"
         <br />
         Nick Carducci - Bookie at Book.com.co (2019–present)
