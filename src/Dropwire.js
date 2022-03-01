@@ -184,17 +184,17 @@ class Cable extends React.Component {
       });
     };
 
-    var optionalheight = "min-content";
+    var optionalheight = "auto";
     var optionalwidth = 200;
     if (Style) {
       optionalheight =
         !stopfail && Style.height && !isNaN(Style.height)
           ? this.props.img
             ? "100%"
-            : "min-content"
+            : "auto"
           : Style.height && this.state.loaded
           ? Style.height
-          : "min-content";
+          : "auto";
       optionalwidth = !stopfail && Style.width ? Style.width : 200;
     }
     return (
@@ -209,11 +209,11 @@ class Cable extends React.Component {
           shapeOutside: "rect()",
           float,
           overflow: "hidden",
-          height: optionalheight,
+          height: !isNaN(optionalwidth) ? "auto" : optionalheight,
           /*this.state.frameheight
             ? this.state.frameheight + 10
             : "max-content",*/
-          width: optionalwidth // "max-content"
+          width: !isNaN(optionalheight) ? "auto" : optionalwidth // "max-content"
           //maxWidth: "100%"
           //minWidth: optionalwidth // "max-content"
         }}
