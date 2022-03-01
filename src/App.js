@@ -143,7 +143,7 @@ export default class App extends React.Component {
         <span role="img" aria-label="unicorn free">
           🦄🆓
         </span>
-        science 1775-1787
+        science 1775-1787. 2 week anon executions and trades for Public review
         <h3>
           down is good, growth GDP/p is bad, art of fact of tech deprecation
         </h3>
