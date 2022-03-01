@@ -130,6 +130,9 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        These are all unfair, not solutions. We need to amortize income tax
+        portion **outlaid** for Medicare, and for Social Security, and deflate
+        it by such **tax-rate**.
         <h3>
           exploitative or illegal content is{space}
           <a href="https://thumbprint.us/speech">
