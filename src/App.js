@@ -136,6 +136,13 @@ export default class App extends React.Component {
             just as graphic and age, or copyrights
           </a>
         </h3>
+        "'In the context of beyond and in the prayers of those sitting in this
+        hall.’”
+        <br />
+        We are going to make their life a living hell, the people won’t like
+        that, so they will HAVE TO riot against the war from the inside,
+        <br />
+        <br />
         threat of violence or act of harm - drop dead faggot duddy. Address the
         issue, receivable profitables, 1y/0x government funding free rider
         mutable, You don’t need more employees, solving it just takes one
