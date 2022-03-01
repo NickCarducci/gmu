@@ -130,15 +130,26 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
-        These are all unfair, not solutions. We need to amortize income tax
-        portion **outlaid** for Medicare, and for Social Security, and deflate
-        it by such **tax-rate**.
+        (*Waves generally*) These are all unfair, not solutions. We need to
+        amortize income tax portion **outlaid** for Medicare, and for Social
+        Security, and deflate it by such **tax-rate**.
         <h3>
           exploitative or illegal content is{space}
           <a href="https://thumbprint.us/speech">
             just as graphic and age, or copyrights
           </a>
         </h3>
+        Tax for free rider mutable is 1y/0x elastic Is the balance sheet real?
+        <br />
+        <br />
+        The U.N. allows comment section to scapegoat (e.g. "open-lines")
+        malfeasance with open comment box, capital loss deflation: reverse
+        amortization, (cash/debt)*income every year back, favoring Saveres
+        {/*Debt donee beneficiary, false bid pool insurers, implausible use leases 
+        landlords, all also 1y/0x elastic, as well as tax free rider immutables 
+        trust breaking government hypocrisy */}
+        <br />
+        <br />
         "'In the context of beyond and in the prayers of those sitting in this
         hall.’”
         <br />
