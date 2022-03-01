@@ -200,8 +200,8 @@ export default class App extends React.Component {
         "Do you think the society that you live in contributes to your views
         about yourself? Why or why not?"
         <br />
-        Nick Carducci - Injured yet labeled schizophrenic for boycott credit
-        income
+        Nick Carducci - Injured yet labeled schizophrenic for{space}
+        <a href="https://qr.ae/pGdhVi">boycott credit income</a>
         <br />
         GDP/p is tech deprecation, and as a tech maker I want to advance people
         out of jobs. This makes me angry.
