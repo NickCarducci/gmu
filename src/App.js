@@ -138,6 +138,13 @@ export default class App extends React.Component {
           <a href="https://www.quora.com/What-are-the-solutions-to-fix-the-social-security-crisis">
             key
           </a>
+          {space}
+          {/**there has been focus behavior in contextual advertising severely suppressed */}
+          if data collection for targeted advertising were banned, access to
+          personal data wouldn't determine if companies would succeed or fail in
+          the advertising market. What is survellance for except to line the
+          pockets of Facebook and Google, inherent advantages, in
+          advertising-vertical-part and beyond.
         </h4>
         China has more corporate share of debt to GDP than U.S. does…
         <br />
