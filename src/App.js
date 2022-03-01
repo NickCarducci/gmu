@@ -133,7 +133,11 @@ export default class App extends React.Component {
         threat of violence or act of harm - drop dead faggot duddy. Address the
         issue, receivable profitables, 1y/0x government funding free rider
         mutable, You don’t need more employees, solving it just takes one
-        mathematician.
+        mathematician. +1/3 its current size truly is{space}
+        <a href="https://www.researchgate.net/project/Class-action-suit">
+          abject failure of regulators
+        </a>
+        ; trust breaking busting dishonest or delusional
         <br />
         <h1>
           end to end,{space}
