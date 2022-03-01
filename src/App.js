@@ -130,6 +130,16 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h4>
+          "'stop trading with Russia and fighting with them with two hands!'
+        </h4>
+        Xi is{space}
+        <a href="https://qr.ae/pGdtZw">way ahead of schedule</a>, he is not
+        giving away a war with china, that is not a gy thinking about defending
+        us, nor comparative advantage tech advancement efficiency equality
+        competition 0y/1x GDP/hour-GDP/p."
+        <br />
+        <br />
         Are they going to operate in other countries only if they do not engage
         in war, maybe that is a little different than war crimes as per
         incentivized by bonds, or surrendered donee-beneficiary freedom bid or
