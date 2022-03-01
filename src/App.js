@@ -384,6 +384,16 @@ export default class App extends React.Component {
         Treacherous
         <br />
         <br />
+        <div style={{ borderLeft: "3px solid", paddingLeft: "3px" }}>
+          "Constitutional conservatism versus progressive socialism, American
+          marxism, institution is not over the individual, that is not America
+          and not Texas, the only state in America with our own Independence
+          Day, I hope everyone is out there, participating and voting,” Alan
+          West. “China sends it to the cartels and bring it{space}
+          <a href="https://teapharmacy.party/drugs">thru the border</a>
+          {space}and..."
+        </div>
+        <br />
         Who decides what is a crisis or a danger for your{space}
         <a href="https://qr.ae/pGQqjw">cone</a>?
         <br />
