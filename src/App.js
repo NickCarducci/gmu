@@ -186,7 +186,9 @@ export default class App extends React.Component {
         Income tax share of SSA / SSA outlays.
         <br />
         <br />
-        China has more corporate share of debt to GDP than U.S. does…
+        China has{space}
+        <a href="https://qr.ae/pGdhVa">more corporate share of debt to GDP</a>
+        {space}than U.S. does…
         <br />
         <br />
         When you provide more oil from labor-borne-demand of Savers, it doesn’t
