@@ -130,6 +130,12 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h3>
+          exploitative or illegal content is{space}
+          <a href="https://thumbprint.us/speech">
+            just as graphic and age, or copyrights
+          </a>
+        </h3>
         threat of violence or act of harm - drop dead faggot duddy. Address the
         issue, receivable profitables, 1y/0x government funding free rider
         mutable, You don’t need more employees, solving it just takes one
