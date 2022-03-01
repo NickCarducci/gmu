@@ -136,9 +136,11 @@ export default class App extends React.Component {
         Supply=Labor-Demand, efficiency, GDP/hour-GDP/p
         <br />
         <br />
-        Competitive Enterprise Institute says the price of oil is the
-        governments’ perogative Only laborless-demand is, for ask-inventory and
-        bid-opportunity Marginal Utility Indifferences
+        <a href="https://gmunit.com">Competitive Enterprise Institute</a>
+        {space}says the price of{space}
+        <a href="https://magnate.company">oil</a>
+        {space}is the governments’ perogative Only laborless-demand is, for
+        ask-inventory and bid-opportunity Marginal Utility Indifferences.
         <br />
         <br />
         (*Waves generally*) These are all unfair, not solutions. We need to
