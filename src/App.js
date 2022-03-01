@@ -138,7 +138,12 @@ export default class App extends React.Component {
         <br />
         <br />
         This is just like involuntary commitment (rollover insurance), eloping
-        from medication at Riverview Medical Center (nj 101.5 sponsor)
+        from medication at Riverview Medical Center (nj 101.5 sponsor). Remember
+        to add G-d to curse list -{space}
+        <span role="img" aria-label="unicorn free">
+          🦄🆓
+        </span>
+        science 1775-1787
         <h3>
           down is good, growth GDP/p is bad, art of fact of tech deprecation
         </h3>
@@ -147,9 +152,9 @@ export default class App extends React.Component {
         </h4>
         Xi is{space}
         <a href="https://qr.ae/pGdtZw">way ahead of schedule</a>, he is not
-        giving away a war with china, that is not a gy thinking about defending
-        us, nor comparative advantage tech advancement efficiency equality
-        competition 0y/1x GDP/hour-GDP/p."
+        giving away a war with china, that is not a gy (edit, 2/2022: same ten
+        minutes, "guy") thinking about defending us, nor comparative advantage
+        tech advancement efficiency equality competition 0y/1x GDP/hour-GDP/p."
         <br />
         <br />
         Are they going to operate in other countries only if they do not engage
