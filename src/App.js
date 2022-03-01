@@ -130,6 +130,12 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h1>
+          end to end,{space}
+          <a href="https://thumbprint.us/privacy">on-device</a>, encryption is
+          NOT an issue before an actual crime has been committed
+          {/**mike duffy, pd */}
+        </h1>
         <h2>
           THE DATA COLLECTION PRACTICES LED TO EMPLOYERS ADVERTISING MALE JOB
         </h2>
@@ -139,7 +145,7 @@ export default class App extends React.Component {
             key
           </a>
           {space}
-          {/**there has been focus behavior in contextual advertising severely suppressed */}
+          {/**there has been focus behavior in contextual advertising severely suppressed, DuckDuckGo */}
           if data collection for targeted advertising were banned, access to
           personal data wouldn't determine if companies would succeed or fail in
           the advertising market. What is survellance for except to line the
