@@ -131,7 +131,10 @@ export default class App extends React.Component {
           General Maintenance Unit
         </a>
         The absolution of change rate, coming into a derivative(i =2),
-        change-rate/change-rate, really doesn’t matter,
+        change-rate/change-rate, really doesn’t matter,{space}
+        <a href="https://www.google.com/search?q=negative+rate+of+change">
+          negative rate of change, by basis
+        </a>
         <br />
         <br />
         This is just like involuntary commitment (rollover insurance), eloping
