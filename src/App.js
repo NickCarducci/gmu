@@ -130,6 +130,15 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Wacca wacca wacca the beloved prosecutor.
+        <br />
+        “Have they delegated …or given it unto themselves.”
+        <br />
+        How many permit-leases do we pay to the government that we can get
+        drilling drilling drilling so Putin can’t. Prices go to $100 if we don’t
+        drill, for $3m/day export $3m/day import, for quality balance paint.
+        <br />
+        <br />
         The absolution of change rate, coming into a derivative(i =2),
         change-rate/change-rate, really doesn’t matter,{space}
         <a href="https://www.google.com/search?q=negative+rate+of+change">
