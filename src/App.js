@@ -150,8 +150,13 @@ export default class App extends React.Component {
           personal data wouldn't determine if companies would succeed or fail in
           the advertising market. What is survellance for except to line the
           pockets of Facebook and Google, inherent advantages, in
-          advertising-vertical-part and beyond.
+          advertising-vertical-part and beyond. Revenue is profitable
         </h4>
+        Income tax share of Medicare / Medicare outlays.
+        <br />
+        Income tax share of SSA / SSA outlays.
+        <br />
+        <br />
         China has more corporate share of debt to GDP than U.S. does…
         <br />
         <br />
