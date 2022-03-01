@@ -130,6 +130,17 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        an oil and gas exporter shales revolution, Trump admin policies,
+        production is down, cancel leases on federal land, line the pockets of
+        the treasury instead of russia, with consumer surrogates for
+        Supply=Labor-Demand, efficiency, GDP/hour-GDP/p
+        <br />
+        <br />
+        Competitive Enterprise Institute says the price of oil is the
+        governments’ perogative Only laborless-demand is, for ask-inventory and
+        bid-opportunity Marginal Utility Indifferences
+        <br />
+        <br />
         (*Waves generally*) These are all unfair, not solutions. We need to
         amortize income tax portion **outlaid** for Medicare, and for Social
         Security, and deflate it by such **tax-rate**.
