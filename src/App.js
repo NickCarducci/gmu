@@ -130,6 +130,8 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        threat of violence or act of harm - drop dead faggot duddy
+        <br />
         <h1>
           end to end,{space}
           <a href="https://thumbprint.us/privacy">on-device</a>, encryption is
