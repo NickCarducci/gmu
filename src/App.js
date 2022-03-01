@@ -144,10 +144,10 @@ export default class App extends React.Component {
           <a href="https://qr.ae/pGdTGc">robust NATO</a>!
         </h4>
         an oil and gas exporter (leased back to us by the government) shales
-        revolution (18m/day expenditures barrels, 8m/day trade barrels), Trump
-        admin policies, production is down, cancel leases on federal land, line
-        the pockets of the treasury instead of russia, with consumer surrogates
-        for Supply=Labor-Demand, efficiency, GDP/hour-GDP/p
+        revolution (18m/day expenditures barrels, 8m/day trade barrels,
+        paint-tape), Trump admin policies, production is down, cancel leases on
+        federal land, line the pockets of the treasury instead of russia, with
+        consumer surrogates for Supply=Labor-Demand, efficiency, GDP/hour-GDP/p
         <br />
         <br />
         <a href="https://gmunit.com">Competitive Enterprise Institute</a>
