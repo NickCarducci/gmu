@@ -144,8 +144,7 @@ export default class App extends React.Component {
         neighborhood-Land or branded-IP) then if we are really aggressive, we
         say ‘royalties instead of leasing back our currency fungible
         state-lands!’
-        <br />
-        <br />
+        <h4>hypocrisy doesn't only look bad</h4>
         common law has more standing than treaties, especially of surrendered
         donee-beneficiary freedoms (civilians, fines)
         <br />
