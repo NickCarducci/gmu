@@ -130,7 +130,8 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
-        Involuntary commitment is an act of war - scapegoating
+        Involuntary commitment is an act of war - scapegoating edp violent to
+        others without evidence (to exhibit)
         <br />
         <br />
         we can have our economy stand on its own if we exploit Savers'
