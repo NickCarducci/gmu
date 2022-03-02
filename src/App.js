@@ -130,10 +130,11 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Involuntary commitment is an act of war - scapegoating
+        <br />
+        <br />
         we can have our economy stand on its own if we exploit Savers'
         land-deeds. I'm going to hang James Comer from butcher hooks, live!
-        <br />
-        <br />
         <h4>we can't police away poverty and mental health crisis."</h4>
         we have been expending 18m/day barrels, 3m in and out{space}
         <a href="https://qr.ae/pGd2Px">tape painting</a>
