@@ -135,8 +135,9 @@ export default class App extends React.Component {
         <br />
         AMAC is the leading conservative{space}
         <a href="https://fred.stlouisfed.org/graph/?g=MyXf">benefit</a>
-        {space}false bid pool pyramid scheme waste.
+        {space}(2x loaned?) false bid pool pyramid scheme waste.
         <br />
+        friends and family discrimination
         <br />
         Wacca wacca wacca the beloved prosecutor.
         <br />
