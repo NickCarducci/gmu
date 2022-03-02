@@ -130,6 +130,9 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Why is Keystone required when we already consume 18m/day and trade 3m in
+        and 3m out? Royalties for dollars' fungible, no leases to the state, at
+        least
         <h4>
           you can't invoke bail for a later trial, that means you have no
           evidence to exhibit
