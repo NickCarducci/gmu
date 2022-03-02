@@ -130,6 +130,22 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h4>
+          savings and money is going to be{space}
+          <a href="https://qr.ae/pGdstl">worthless</a>
+        </h4>
+        Counted-wealth is good-will (last traded parcel, non-concurrentable
+        collateralization) and currency fungible lands, alone. Chores/favors,
+        scientific contributions and copy are to be imputed!
+        <br />
+        <br />
+        I’m a bookkeeper, we amortize the balance sheet to zero, or at least, a
+        concurrentable cash balance ($2t currency to $170t ‘good will’ of
+        neighborhood-Land or branded-IP) then if we are really aggressive, we
+        say ‘royalties instead of leasing back our currency fungible
+        state-lands!’
+        <br />
+        <br />
         common law has more standing than treaties, especially of surrendered
         donee-beneficiary freedoms (civilians, fines)
         <br />
