@@ -130,6 +130,7 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h4>we can't police away poverty and mental health crisis."</h4>
         we have been expending 18m/day barrels, 3m in and out{space}
         <a href="https://qr.ae/pGd2Px">tape painting</a>
         <br />
@@ -139,6 +140,40 @@ export default class App extends React.Component {
         m2 that goes into GDP/yr - don’t sell it when 1/3 voters say “
         <a href="https://qr.ae/pGd24t">no-candidate</a>” then lease it back to
         us
+        <br />
+        <br />
+        <Cable
+          style={{ width: "100%" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/c2dvxgjh1c6dx8o/Screen%20Shot%202022-03-02%20at%205.08.41%20PM.png?dl=0"
+          }
+          float={null}
+          title="https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MCRFPUS1&f=A"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
+          scrollTop={this.props.scrollTop}
+        />
+        <Cable
+          style={{ width: "100%" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/sobka0ygs71csh8/Screen%20Shot%202022-03-02%20at%205.09.40%20PM.png?dl=0"
+          }
+          float={null}
+          title="https://checksandbalancesproject.org/seven-things-you-need-to-know-about-oil-production-and-drilling-on-your-public-lands/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
+          scrollTop={this.props.scrollTop}
+        />
         <h4>
           savings and money is going to be{space}
           <a href="https://qr.ae/pGdstl">worthless</a>
