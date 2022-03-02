@@ -131,8 +131,9 @@ export default class App extends React.Component {
           General Maintenance Unit
         </a>
         <h4>
-          The U.S. strategy is to _get_ the Russian people to make
-          anti-war-riots
+          The U.S. stated-strategy is to _get_ the Russian people to make
+          anti-war-riots. Russian stated-strategy is tax beyond truncated
+          production receipt for sewage, police, lawsuit scope
         </h4>
         "bleed his treasury," is already negative on cash balance, assets and
         liabilities are non-concurrentable
