@@ -130,6 +130,7 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h4>mental and age is not a disability; .7% are actually disabled</h4>
         Why is Keystone required when we already consume 18m/day and trade 3m in
         and 3m out? Royalties for dollars' fungible, no leases to the state, at
         least
