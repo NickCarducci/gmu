@@ -192,7 +192,7 @@ export default class App extends React.Component {
         shoving poop in your face is an attack, that, nor
         <h4>mental and age is a disability; .7% are actually disabled</h4>
         Why is Keystone required when we already consume 18m/day and trade 3m in
-        and 3m out?{space}
+        and 3m out (1.3% from russia, virtue-signalling)?{space}
         <a href="https://qr.ae/pGdKYt">Royalties</a>
         {space}for dollars' fungible, no leases to the state, at least
         <h4>
