@@ -130,6 +130,11 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        single family zoning is retarded: plausible use is not surrendered
+        donee-beneficicary freedom, by bid (like insurance, yet outright
+        lending)
+        <br />
+        <br />
         2m/yr is up from{space}
         <a href="https://humanharvest.info/polio">1m/yr</a>
         {space}normally (in addition to 1m/yr treasury collusion),{space}
