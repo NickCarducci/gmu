@@ -130,6 +130,8 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        "antiviral pills at no cost," front running is 1y/0x elastic, when
+        buying for others (no demand) or non-rollover (hours/schedule)
         <h4>
           Trump wants to make review for closed source medicine and foreseeable
           force majeure, 1y/0x elastic
