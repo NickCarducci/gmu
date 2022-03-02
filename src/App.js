@@ -130,6 +130,15 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <a href="https://qr.ae/pGdKYt">Production is not rents</a>!<br />
+        "By definition, economic rent is the difference between the marginal
+        product and opportunity cost. When a firm controls valuable production
+        resources such as land, labor, and capital, it will use the resources to
+        bring it to its{space}
+        <a href="https://corporatefinanceinstitute.com/resources/knowledge/economics/economic-rent/">
+          optimal production quantity
+        </a>
+        ."
         <h4>
           The U.S. stated-strategy is to _get_ the Russian people to make
           anti-war-riots. Russian stated-strategy is tax beyond truncated
