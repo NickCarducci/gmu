@@ -130,6 +130,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h4>
+          Trump wants to make review for closed source medicine and foreseeable
+          force majeure, 1y/0x elastic
+        </h4>
         single family zoning is retarded: plausible use is not surrendered
         donee-beneficicary freedom, by bid (like insurance, yet outright
         lending)
