@@ -131,7 +131,11 @@ export default class App extends React.Component {
           General Maintenance Unit
         </a>
         "there was no war while Trump was president, 'Conflict began in February
-        2014 following the Revolution of Dignity.'"
+        2014 following the Revolution of Dignity. ...Putin criticized the
+        enlargement of NATO as a threat to his country for{space}
+        <a href="https://qr.ae/pGdTGc">-$100b tsy bonds</a>
+        {space}and demanded Ukraine be barred from ever joining the military
+        alliance.'"
         <br />
         <h4>you can't own science and must open ingredient lists</h4>
         Unexpect medical bills are false bid pool surrendered freedom donee
