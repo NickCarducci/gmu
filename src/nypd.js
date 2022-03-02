@@ -357,8 +357,9 @@ class NYPD extends React.Component {
       >
         <div
           style={{
+            width: "100%",
             padding: "4px 8px",
-            top: "60px",
+            top: "0px",
             display: "flex",
             position: "absolute",
             left: "0px",
@@ -518,7 +519,7 @@ class NYPD extends React.Component {
             )}
           </svg>
         </div>
-        <div
+        {/*<div
           style={{
             backgroundColor: "rgba(250,250,250,0.6)",
             top: "10px",
@@ -540,7 +541,7 @@ class NYPD extends React.Component {
               width: "max-content"
             }}
           ></div>
-        </div>
+          </div>*/}
       </div>
     );
   }
