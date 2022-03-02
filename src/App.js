@@ -130,6 +130,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        "bleed his treasury," is already negative on cash balance, assets and
+        liabilities are non-concurrentable
+        <br />
+        <br />
         arresting or else when unequal bond-tax, free rider mutable tax,
         sanctions for without actual executions, is blatant war crime
         <br />
