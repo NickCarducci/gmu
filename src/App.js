@@ -130,6 +130,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Every dollar you have in your account, disburse a percentage of oil
+        sales. Our dollars are fungible, not broad m2 that goes into GDP/yr -
+        don’t sell it when 1/3 voters say “no-candidate” then lease it back to
+        us
         <h4>
           savings and money is going to be{space}
           <a href="https://qr.ae/pGdstl">worthless</a>
