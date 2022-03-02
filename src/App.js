@@ -130,6 +130,9 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        common law has more standing than treaties, especially of surrendered
+        donee-beneficiary freedoms (civilians, fines)
+        <br />
         <a href="https://qr.ae/pGdKYt">Production is not rents</a>!<br />
         "By definition, economic rent is the difference between the marginal
         product and opportunity cost. When a firm controls valuable production
