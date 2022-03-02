@@ -3,6 +3,7 @@ import Cable from "./Dropwire";
 //import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
 import Gist from "react-gist";
+import NYPD from "./nypd";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -243,6 +244,13 @@ export default class App extends React.Component {
         </a>
         {space}is an attack, that, nor
         <h4>mental and age is a disability; .7% are actually disabled</h4>
+        <NYPD
+          lastWidth={Math.min(600, this.state.lastWidth)}
+          style={{
+            paddingBottom: "15px",
+            backgroundColor: "rgb(190,150,180)"
+          }}
+        />
         Why is Keystone required when we already consume{space}
         <a href="https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MCRFPUS1&f=A">
           18m/day
