@@ -131,6 +131,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Thanks for everything you do to help fellow Americans as a 501c3 that
+        dissolves to the state.
+        <br />
+        <br />
         “We should be flooding the market with natural gas, $107/barrel, that is
         a modern record, lasts in 36 hours.
         <br />
