@@ -143,10 +143,11 @@ export default class App extends React.Component {
         <br />
         <br />
         shoving poop in your face is an attack, that, nor
-        <h4>mental and age is not a disability; .7% are actually disabled</h4>
+        <h4>mental and age is a disability; .7% are actually disabled</h4>
         Why is Keystone required when we already consume 18m/day and trade 3m in
-        and 3m out? Royalties for dollars' fungible, no leases to the state, at
-        least
+        and 3m out?{space}
+        <a href="https://qr.ae/pGdKYt">Royalties</a>
+        {space}for dollars' fungible, no leases to the state, at least
         <h4>
           you can't invoke bail for a later trial, that means you have no
           evidence to exhibit
@@ -174,7 +175,9 @@ export default class App extends React.Component {
         <br />
         How many permit-leases do we pay to the government that we can get
         drilling drilling drilling so Putin can’t. Prices go to $100 if we don’t
-        drill, for $3m/day export $3m/day import, for quality balance paint.
+        drill, for{space}
+        <a href="https://qr.ae/pGdKYX">3m/day export 3m/day import</a>, for
+        quality balance paint.
         <br />
         <br />
         The absolution of change rate, coming into a derivative(i =2),
