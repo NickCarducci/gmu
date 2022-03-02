@@ -130,6 +130,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h4>
+          you can't invoke bail for a later trial, that means you have no
+          evidence to exhibit
+        </h4>
         "there was no war while Trump was president, 'Conflict began in February
         2014 following the Revolution of Dignity. ...Putin criticized the
         enlargement of NATO as a threat to his country for{space}
