@@ -131,6 +131,12 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        “We should be flooding the market with natural gas, $107/barrel, that is
+        a modern record, lasts in 36 hours.
+        <br />
+        We and Europe are buying oil from Russia, today, what the Hell for?"
+        <br />
+        <br />
         Involuntary commitment is an act of war - scapegoating edp violent to
         others without evidence (to exhibit)
         <br />
