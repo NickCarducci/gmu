@@ -130,8 +130,8 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
-        Unexpedect medical bills are false bid pool surrendered freedom donee
-        beneficiary bids.
+        Unexpect medical bills are false bid pool surrendered freedom donee
+        beneficiary bids, expected, is outright.
         <br />
         AMAC is the leading conservative{space}
         <a href="https://fred.stlouisfed.org/graph/?g=MyXf">benefit</a>
