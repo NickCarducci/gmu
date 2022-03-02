@@ -130,8 +130,8 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
-        arresting or else when unequal bond-tax, free rider mutable tax, is
-        blatant war crime
+        arresting or else when unequal bond-tax, free rider mutable tax,
+        sanctions for without actual executions, is blatant war crime
         <br />
         <br />
         "antiviral pills at no cost," front running is 1y/0x elastic, when
