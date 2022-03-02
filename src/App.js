@@ -130,6 +130,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h4>
+          The U.S. strategy is to _get_ the Russian people to make
+          anti-war-riots
+        </h4>
         "bleed his treasury," is already negative on cash balance, assets and
         liabilities are non-concurrentable
         <br />
