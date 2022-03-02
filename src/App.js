@@ -188,10 +188,17 @@ export default class App extends React.Component {
         {space}are less criminal per capita, and more productive (by age)
         <br />
         <br />
-        shoving poop in your face is an attack, that, nor
+        <a href="https://checksandbalancesproject.org/seven-things-you-need-to-know-about-oil-production-and-drilling-on-your-public-lands/">
+          shoving poop in your face
+        </a>
+        {space}is an attack, that, nor
         <h4>mental and age is a disability; .7% are actually disabled</h4>
-        Why is Keystone required when we already consume 18m/day and trade 3m in
-        and 3m out (1.3% from russia, virtue-signalling)?{space}
+        Why is Keystone required when we already consume{space}
+        <a href="https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MCRFPUS1&f=A">
+          18m/day
+        </a>
+        {space}and trade 3m in and 3m out (1.3% from russia, virtue-signalling)?
+        {space}
         <a href="https://qr.ae/pGdKYt">Royalties</a>
         {space}for dollars' fungible, no leases to the state, at least
         <h4>
