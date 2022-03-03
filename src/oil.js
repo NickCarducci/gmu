@@ -1,4 +1,127 @@
 import React from "react";
+const oilprodliquid = [
+  [1982, 583872],
+  [1983, 561073],
+  [1984, 622765],
+  [1985, 628330],
+  [1986, 594445],
+  [1987, 638489],
+  [1988, 651308],
+  [1989, 653317],
+  [1990, 622149],
+  [1991, 679975],
+  [1992, 712248],
+  [1993, 704839],
+  [1994, 759408],
+  [1995, 766419],
+  [1996, 813180],
+  [1997, 814997],
+  [1998, 776153],
+  [1999, 880174],
+  [2000, 890762],
+  [2001, 803139],
+  [2002, 837789],
+  [2003, 804850],
+  [2004, 828635],
+  [2005, 783308],
+  [2006, 779451],
+  [2007, 799833],
+  [2008, 748246],
+  [2009, 776334],
+  [2010, 825879],
+  [2011, 821345],
+  [2012, 839282],
+  [2013, 912806],
+  [2014, 891630],
+  [2015, 930667],
+  [2016, 929942],
+  [2017, 962528],
+  [2018, 1099970],
+  [2019, 1145706],
+  [2020, 1181338]
+];
+const oilprodliquid2 = [
+  [1982, -95510],
+  [1983, -60461],
+  [1984, -67960],
+  [1985, -95796],
+  [1986, -114542],
+  [1987, -86692],
+  [1988, -59071],
+  [1989, -55177],
+  [1990, -53072],
+  [1991, -82242],
+  [1992, -46476],
+  [1993, -67955],
+  [1994, -46728],
+  [1995, -54042],
+  [1996, -17994],
+  [1997, -15867],
+  [1998, -53103],
+  [1999, -48160],
+  [2000, -68111],
+  [2001, -11745],
+  [2002, -21803],
+  [2003, -7172],
+  [2004, -10867],
+  [2005, 2127],
+  [2006, 12202],
+  [2007, 11544],
+  [2008, -9203],
+  [2009, -13512],
+  [2010, 4752],
+  [2011, 9637],
+  [2012, 10314],
+  [2013, 2794],
+  [2014, -13863],
+  [2015, -3123],
+  [2016, 1415],
+  [2017, 13072],
+  [2018, 4990],
+  [2019, 23097],
+  [2020, 32553]
+];
+const oilfinishes = [
+  [1982, 5094576],
+  [1983, 5034553],
+  [1984, 5177495],
+  [1985, 5185544],
+  [1986, 5444720],
+  [1987, 5518448],
+  [1988, 5718758],
+  [1989, 5715421],
+  [1990, 5622951],
+  [1991, 5496102],
+  [1992, 5563535],
+  [1993, 5650876],
+  [1994, 5751227],
+  [1995, 5754592],
+  [1996, 5903506],
+  [1997, 5996483],
+  [1998, 6181706],
+  [1999, 6292544],
+  [2000, 6387943],
+  [2001, 6380383],
+  [2002, 6396890],
+  [2003, 6514551],
+  [2004, 6769833],
+  [2005, 6807354],
+  [2006, 6759254],
+  [2007, 6736961],
+  [2008, 6397212],
+  [2009, 6088739],
+  [2010, 6169170],
+  [2011, 6065877],
+  [2012, 5914945],
+  [2013, 6007179],
+  [2014, 6093903],
+  [2015, 6201502],
+  [2016, 6275878],
+  [2017, 6306852],
+  [2018, 6381770],
+  [2019, 6329338],
+  [2020, 5442152]
+];
 const oilexports = [
   [1982, 23596],
   [1983, 26786],
@@ -523,11 +646,29 @@ class OIL extends React.Component {
     //let testing = [];
     let noData = [];
     let date = [];
+    let finishes = [];
+    let product = [];
+    let product2 = [];
     let drilling = [];
     let exports2 = [];
     let exports = [];
     let barrels = [];
     let prices = [];
+    oilprodliquid.map((year, i) => {
+      date.push(year[0]);
+      product.push(year[1]);
+      return noData.push([year[0], 0]);
+    });
+    oilprodliquid2.map((year, i) => {
+      date.push(year[0]);
+      product2.push(year[1]);
+      return noData.push([year[0], 0]);
+    });
+    oilfinishes.map((year, i) => {
+      date.push(year[0]);
+      finishes.push(year[1]);
+      return noData.push([year[0], 0]);
+    });
     oilbarrels.map((year, i) => {
       date.push(year[0]);
       barrels.push(year[1]);
@@ -560,17 +701,20 @@ class OIL extends React.Component {
       dataDataData[yearData[0]] = dataDataData[yearData[0]] + yearData[1];
     });*/
     var lowPrices = Math.min(...prices);
-    var lowBarrels = Math.min(...barrels, ...exports);
+    var lowBarrels = Math.min(...barrels, ...exports, ...finishes);
     var lowDrilling = Math.min(...drilling);
     var lowDate = Math.min(...date);
     var highPrices = Math.max(...prices);
-    var highBarrels = Math.max(...barrels, ...exports);
+    var highBarrels = Math.max(...barrels, ...exports, ...finishes);
     var highDrilling = Math.max(...drilling);
     var highDate = Math.max(...date);
     //console.log(dataData);
     var state = {
       highPrices,
       highBarrels,
+      oilfinishes,
+      oilprodliquid,
+      oilprodliquid2,
       oilexports,
       oildrilling,
       oilexports2,
@@ -646,6 +790,24 @@ class OIL extends React.Component {
     ]);
     //console.log(this.state.oilprice);
 
+    const oilprodliquid = this.state.oilprodliquid.map(([x, y]) => [
+      ((x - this.state.lowDate) / this.state.xAxisBarrels) *
+        0.9 *
+        this.props.lastWidth,
+      ((y - this.state.lowBarrels) / this.state.yAxisBarrels) * 150
+    ]);
+    const oilprodliquid2 = this.state.oilprodliquid2.map(([x, y]) => [
+      ((x - this.state.lowDate) / this.state.xAxisBarrels) *
+        0.9 *
+        this.props.lastWidth,
+      ((y - this.state.lowBarrels) / this.state.yAxisBarrels) * 150
+    ]);
+    const oilfinishes = this.state.oilfinishes.map(([x, y]) => [
+      ((x - this.state.lowDate) / this.state.xAxisBarrels) *
+        0.9 *
+        this.props.lastWidth,
+      ((y - this.state.lowBarrels) / this.state.yAxisBarrels) * 150
+    ]);
     const oilexports = this.state.oilexports.map(([x, y]) => [
       ((x - this.state.lowDate) / this.state.xAxisBarrels) *
         0.9 *
@@ -707,9 +869,15 @@ class OIL extends React.Component {
           >
             OIL: ${this.state.lowPrices}-{this.state.highPrices}
           </div>
-          {shortNumber((this.state.lowBarrels * 1000) / 365)}-
-          {shortNumber((this.state.highBarrels * 1000) / 365)} barrels/day
-          (yellow)
+          <span>
+            {shortNumber((this.state.lowBarrels * 1000) / 365)}-
+            {shortNumber((this.state.highBarrels * 1000) / 365)} barrels/day
+            (yellow/darkmagenta, "
+            <a href="https://www.eia.gov/dnav/pet/PET_CONS_PSUP_DC_NUS_MBBL_A.htm">
+              finished
+            </a>
+            ")
+          </span>
           <div
             style={{
               height: "min-content",
@@ -741,6 +909,54 @@ class OIL extends React.Component {
                     stroke="rgb(230,230,230)"
                     fill="transparent"
                     strokeWidth={0}
+                    key={i}
+                  />
+                )
+            )}
+            {oilprodliquid.map(
+              ([x, y], i) =>
+                !isNaN(x) &&
+                !isNaN(y) && (
+                  <rect
+                    x={x}
+                    y={y}
+                    width={2}
+                    height={2}
+                    stroke="deepskyblue"
+                    fill="blue"
+                    strokeWidth={1}
+                    key={i}
+                  />
+                )
+            )}
+            {oilprodliquid2.map(
+              ([x, y], i) =>
+                !isNaN(x) &&
+                !isNaN(y) && (
+                  <rect
+                    x={x}
+                    y={y}
+                    width={2}
+                    height={2}
+                    stroke="white"
+                    fill="blue"
+                    strokeWidth={1}
+                    key={i}
+                  />
+                )
+            )}
+            {oilfinishes.map(
+              ([x, y], i) =>
+                !isNaN(x) &&
+                !isNaN(y) && (
+                  <rect
+                    x={x}
+                    y={y}
+                    width={2}
+                    height={2}
+                    stroke="darkmagenta"
+                    fill="blue"
+                    strokeWidth={1}
                     key={i}
                   />
                 )
