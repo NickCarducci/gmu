@@ -4,6 +4,7 @@ import Cable from "./Dropwire";
 import { UAParser } from "ua-parser-js";
 import Gist from "react-gist";
 import NYPD from "./nypd";
+import OIL from "./oil";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -131,7 +132,8 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
-        USAID 1y/0x elastic
+        USAID 1y/0x elastic; public curiosity? no, Public review/science
+        (rent-free pmm) for executions
         <br />
         Thanks for everything you do to help fellow Americans as a 501c3 that
         dissolves to the state.
@@ -348,8 +350,13 @@ export default class App extends React.Component {
         paint-tape), Trump admin policies, production is down, cancel leases on
         federal land, line the pockets of the treasury instead of russia, with
         consumer surrogates for Supply=Labor-Demand, efficiency, GDP/hour-GDP/p
-        <br />
-        <br />
+        <OIL
+          lastWidth={Math.min(600, this.state.lastWidth)}
+          style={{
+            paddingBottom: "15px",
+            backgroundColor: "rgb(190,150,180)"
+          }}
+        />
         <a href="https://gmunit.com">Competitive Enterprise Institute</a>
         {space}says the price of{space}
         <a href="https://magnate.company">oil</a>
