@@ -385,10 +385,12 @@ export default class App extends React.Component {
         <br />
         <br />
         “What will it take to take the assets from all these{space}
-        <a href="https://twitter.com/viathumbprint/status/1416803308824633347?s=20&t=hxAU99Sdoq_7TPOzV0olUg">
+        <a href="https://twitter.com/viathumbprint/status/1416803308824633347">
           oligarchs
         </a>
-        ? They should merge into a government board.” -Brian Kilmeade
+        ? They should merge{space}
+        <a href="https://lightte.ch">into</a>
+        {space}a government board.” -Brian Kilmeade
         <br />
         <br />
         <a href="https://gmunit.com">Competitive Enterprise Institute</a>
