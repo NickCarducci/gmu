@@ -362,6 +362,7 @@ export default class App extends React.Component {
         paint-tape), Trump admin policies, production is down, cancel leases on
         federal land, line the pockets of the treasury instead of russia, with
         consumer surrogates for Supply=Labor-Demand, efficiency, GDP/hour-GDP/p
+        <h4>obviously the main factor in oil by wells is leases</h4>
         <OIL
           lastWidth={Math.min(600, this.state.lastWidth)}
           style={{
