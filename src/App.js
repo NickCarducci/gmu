@@ -241,7 +241,10 @@ export default class App extends React.Component {
         <br />
         <br />
         arresting or else when unequal bond-tax, free rider mutable tax,
-        sanctions for without actual executions, is blatant war crime
+        sanctions for without actual executions, is{space}
+        <a href="https://thumbprint.us/privacy">blatant</a>
+        {space}war crime (Everything you can but not force what others can, to
+        not)
         <br />
         <br />
         "antiviral pills at no cost," front running is 1y/0x elastic, when
