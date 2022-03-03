@@ -349,7 +349,7 @@ class OIL extends React.Component {
         this.props.lastWidth,
       0
     ]);
-    console.log(this.state.oilprice);
+    //console.log(this.state.oilprice);
     const oilprice = this.state.oilprice.map(([x, y]) => [
       ((x - this.state.lowDate) / this.state.xAxisPrice) *
         0.9 *
