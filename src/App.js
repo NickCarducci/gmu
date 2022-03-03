@@ -362,7 +362,10 @@ export default class App extends React.Component {
         paint-tape), Trump admin policies, production is down, cancel leases on
         federal land, line the pockets of the treasury instead of russia, with
         consumer surrogates for Supply=Labor-Demand, efficiency, GDP/hour-GDP/p
-        <h4>obviously the main factor in oil by wells is leases</h4>
+        <h4>
+          obviously the main factor in oil by wells is leases; trust-breaking
+          hypocrisy
+        </h4>
         <OIL
           lastWidth={Math.min(600, this.state.lastWidth)}
           style={{
@@ -376,6 +379,16 @@ export default class App extends React.Component {
         <a href="https://www.eia.gov/todayinenergy/detail.php?id=44356">
           report
         </a>
+        <br />
+        <br />
+        Now we are building bathrooms in basements
+        <br />
+        <br />
+        “What will it take to take the assets from all these{space}
+        <a href="https://twitter.com/viathumbprint/status/1416803308824633347?s=20&t=hxAU99Sdoq_7TPOzV0olUg">
+          oligarchs
+        </a>
+        ? They should merge into a government board.” -Brian Kilmeade
         <br />
         <br />
         <a href="https://gmunit.com">Competitive Enterprise Institute</a>
