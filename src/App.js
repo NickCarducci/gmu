@@ -5,6 +5,7 @@ import { UAParser } from "ua-parser-js";
 import Gist from "react-gist";
 import NYPD from "./nypd";
 import OIL from "./oil";
+import EDU from "./edu";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -173,6 +174,13 @@ export default class App extends React.Component {
         <a href="https://www.census.gov/newsroom/press-releases/2021/public-school-spending-per-pupil.html">
           5%
         </a>
+        <EDU
+          lastWidth={Math.min(600, this.state.lastWidth)}
+          style={{
+            paddingBottom: "15px",
+            backgroundColor: "rgb(190,150,180)"
+          }}
+        />
         {space}
         {/**https://www.census.gov/data/tables/2019/econ/school-finances/secondary-education-finance.html */}
         , inequality -40%, productivity{space}
