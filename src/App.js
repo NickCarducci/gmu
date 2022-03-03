@@ -132,6 +132,8 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        expenditures(GDP)/hour is an artifact of tech deprecation
+        <br />
         19% aren't disabled; .7% has Multiple Sclerosis and acute flaccid
         paralysis. That's it. Stop sending my mom my disability, she is making
         additions to her house!
