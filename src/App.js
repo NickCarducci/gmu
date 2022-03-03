@@ -133,6 +133,12 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        "Every constitutional protection has been violated ALL for the Jan 6
+        protestors because of a political agenda," says Julia Kelly. Next time I
+        will shiv the person who tries to involuntarily commit me or give me
+        medicine I don't want.
+        <br />
+        <br />
         $10b to Ukraine out of $4t/yr, is not free rider immutable when you are
         setting the margins
         <h4>
