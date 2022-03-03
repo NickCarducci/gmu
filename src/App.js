@@ -869,6 +869,23 @@ export default class App extends React.Component {
         <br />
         <h3>bookkeepers-anonymous</h3>
         trust breaking hyposcrisy and duress/surrendered bonk
+        <br />
+        <Cable
+          style={{ width: "100%" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/nny0rmyh975soqo/Screen%20Shot%202022-03-03%20at%202.00.04%20PM.png?dl=0"
+          }
+          float={null}
+          title="bewildering velocity of currency"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
+          scrollTop={this.props.scrollTop}
+        />
       </div>
     );
   }
