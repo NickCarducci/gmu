@@ -140,8 +140,11 @@ export default class App extends React.Component {
         <br />
         -40% expenditures/income average.
         <br />
-        Food insecurity -25% (51% food, 30% clothes, 29% utilities, 25% school),
-        in a year when school expenditures{space}
+        <a href="https://www.bls.gov/opub/ted/2012/ted_20120222.htm?view_full">
+          Food insecurity
+        </a>
+        {space}-25% (51% food, 30% clothes, 29% utilities, 25% school), in a
+        year when school expenditures{space}
         <a href="https://worldpopulationreview.com/state-rankings/per-pupil-spending-by-state">
           again
         </a>
