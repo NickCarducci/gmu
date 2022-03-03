@@ -867,6 +867,7 @@ export default class App extends React.Component {
         <Gist id="a834dbb9110400d2b118ef2fe7984f09" />
         <br />
         <h3>bookkeepers-anonymous</h3>
+        trust breaking hyposcrisy and duress/surrendered bonk
       </div>
     );
   }
