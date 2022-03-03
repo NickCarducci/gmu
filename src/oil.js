@@ -120,8 +120,8 @@ const oilprice = [
   [2017, 48.05],
   [2018, 61.4],
   [2019, 55.59],
-  [2020, 36.86],
-  [2021, 65.9]
+  [2020, 36.86]
+  //[2021, 65.9]
 ];
 
 const oilbarrels = [
@@ -373,7 +373,7 @@ class OIL extends React.Component {
       >
         <div
           style={{
-            width: "100%",
+            width: "calc(100% - 16px)",
             padding: "4px 8px",
             top: "0px",
             display: "flex",
@@ -384,8 +384,17 @@ class OIL extends React.Component {
             backgroundColor: "rgba(250,250,250,.6)"
           }}
         >
-          incidents major 7 OIL:
-          {this.state.lowTesting}-{this.state.highTesting}
+          <div
+            style={{
+              padding: "4px 8px",
+              position: "absolute",
+              right: "0px"
+            }}
+          >
+            OIL: ${this.state.lowPrices}-{this.state.highPrices}
+          </div>
+          {shortNumber(this.state.lowBarrels)}-
+          {shortNumber(this.state.highBarrels)} barrels
           <div
             style={{
               height: "min-content",
