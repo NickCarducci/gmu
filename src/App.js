@@ -132,8 +132,17 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
-        I don't think there is anything we can't do."
+        <h4>Schizo consistent</h4>I don't think there is anything we can't do."
         <h4>leasing science, root causes is literally the fees</h4>
+        Closed ingredient-lists with named-businesses for reviews of
+        estimated-sprints, as just that.
+        <br />
+        The currency isn’t share-split, but the purchasing power is
+        strengthened, by lower labor costs.
+        <br />
+        Investments in schools infrastructure healthcare, police and kinda
+        military, too.
+        <br />
         funding police departments and homeless shelters with investment banks
         <br />
         expenditures(GDP)/hour is an artifact of tech deprecation
