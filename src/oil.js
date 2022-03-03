@@ -842,7 +842,7 @@ class OIL extends React.Component {
       <div
         style={{
           width: "100%",
-          minHeight: "230px",
+          minHeight: "240px",
           position: "relative",
           backgroundColor: "black"
         }}
@@ -862,6 +862,7 @@ class OIL extends React.Component {
         >
           <div
             style={{
+              backgroundColor: "rgba(255,255,255,.3)",
               padding: "4px 8px",
               position: "absolute",
               right: "0px"
@@ -869,7 +870,11 @@ class OIL extends React.Component {
           >
             OIL: ${this.state.lowPrices}-{this.state.highPrices}
           </div>
-          <span>
+          <span
+            style={{
+              width: "calc(100% - 80px)"
+            }}
+          >
             {shortNumber((this.state.lowBarrels * 1000) / 365)}-
             {shortNumber((this.state.highBarrels * 1000) / 365)} barrels/day
             (yellow/darkmagenta, "
@@ -891,7 +896,7 @@ class OIL extends React.Component {
             {this.state.highDate}
           </div>
         </div>
-        <div style={{ transform: "translate(0px,220px)" }}>
+        <div style={{ transform: "translate(0px,230px)" }}>
           <svg
             className="all"
             style={linecss}
