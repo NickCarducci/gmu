@@ -132,7 +132,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
-        <h4>Schizo consistent</h4>I don't think there is anything we can't do."
+        <h4>
+          Schizo consistent; is it a "seasonal flu" or a "deadly pandemic?"
+        </h4>
+        I don't think there is anything we can't do."
         <h4>leasing science, root causes is literally the fees</h4>
         Closed ingredient-lists with named-businesses for reviews of
         estimated-sprints, as just that.
