@@ -132,6 +132,35 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        19% aren't disabled; .7% has Multiple Sclerosis and acute flaccid
+        paralysis. That's it. Stop sending my mom my disability, she is making
+        additions to her house!
+        <br />
+        Reeling from the pandemic, 1/7 children in poverty is low equality.
+        <br />
+        -40% expenditures/income average.
+        <br />
+        Food insecurity -25% (51% food, 30% clothes, 29% utilities, 25% school),
+        in a year when school expenditures{space}
+        <a href="https://worldpopulationreview.com/state-rankings/per-pupil-spending-by-state">
+          again
+        </a>
+        {space}increase by{space}
+        <a href="https://www.census.gov/newsroom/press-releases/2021/public-school-spending-per-pupil.html">
+          5%
+        </a>
+        {space}
+        {/**https://www.census.gov/data/tables/2019/econ/school-finances/secondary-education-finance.html */}
+        , inequality -40%, productivity{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=MAJ3">-20%/yr+</a>
+        {space}and efficiency{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=MAJT">1/hours-GDP/p</a>
+        <br />
+        Stop scapegoating age and mental acuity for laborless-demand in
+        financial-usurers: lenders (loitering), landlords (implausible landlord
+        lease) and insurers (false bid pool).
+        <br />
+        <br />
         ​leases are exclusive cause of oil prices, was being blocked on LIVE:
         Fed Chair Powell testifies before the Senate Banking Committee on
         monetary policy on Yahoo Finance (3/3/2022)
