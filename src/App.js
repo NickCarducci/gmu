@@ -366,6 +366,14 @@ export default class App extends React.Component {
             backgroundColor: "rgb(190,150,180)"
           }}
         />
+        <a href="https://www.eia.gov/petroleum/wells/">map of wells (purple</a>
+        <br />
+        <br />
+        <a href="https://www.eia.gov/todayinenergy/detail.php?id=44356">
+          report
+        </a>
+        <br />
+        <br />
         <a href="https://gmunit.com">Competitive Enterprise Institute</a>
         {space}says the price of{space}
         <a href="https://magnate.company">oil</a>
