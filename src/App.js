@@ -157,7 +157,11 @@ export default class App extends React.Component {
         , inequality -40%, productivity{space}
         <a href="https://fred.stlouisfed.org/graph/?g=MAJ3">-20%/yr+</a>
         {space}and efficiency{space}
-        <a href="https://fred.stlouisfed.org/graph/?g=MAJT">1/hours-GDP/p</a>
+        <a href="https://fred.stlouisfed.org/graph/?g=MAJT">1/hours-GDP/p</a>,
+        {space}
+        <a href="https://fred.stlouisfed.org/graph/?g=MAO7">
+          (+supervisory non-farm)
+        </a>
         <br />
         Stop scapegoating age and mental acuity for laborless-demand in
         financial-usurers: lenders (loitering), landlords (implausible landlord
