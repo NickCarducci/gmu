@@ -135,7 +135,9 @@ export default class App extends React.Component {
         </a>
         "Every constitutional protection has been violated ALL for the Jan 6
         protestors because of a political agenda," says Julia Kelly. Next time I
-        will shiv the person who tries to involuntarily commit me or give me
+        will{space}
+        <a href="https://truncatedsalestax.gov">shiv</a>
+        {space}the person who tries to involuntarily commit me or give me
         medicine I don't want.
         <br />
         <br />
