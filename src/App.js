@@ -133,8 +133,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
-        Discount income by government and leases, commercial, wells, and
-        subsidies
+        Discount income by{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=MBbk">
+          government and leases, commercial, wells, and subsidies
+        </a>
         <br />
         600k of 18m barrels a day is peanuts! Wouldn’t you do this for KYC?
         <br />
