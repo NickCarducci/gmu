@@ -133,6 +133,15 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Let them keep their own copy and donate, with goods that they do not
+        firesale (then, as 1y/0x elastic as cash), or with hours; so,
+        contribute. Intern for them. Favors are imputable-GDP/p lowering.
+        <br />
+        OCD for disorder
+        <br />
+        A statistician gone mad
+        <br />
+        <br />
         "The nicest people, I can't believe you are standing on my neck"
         <br />
         <br />
