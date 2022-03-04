@@ -133,6 +133,9 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        to put more in the marketplace - that is Savers' voting rights and
+        roualties, due. don't lease it back to us
+        <br />
         "ban the oil coming from Russia," leases are the same{space}
         <a href="https://data.worldbank.org/indicator/NY.GDP.PETR.RT.ZS?locations=RU">
           % as finance in America
