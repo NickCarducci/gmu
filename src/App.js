@@ -146,6 +146,9 @@ export default class App extends React.Component {
         would be always 0. real GDP discounts GDP for inflation rate, which is
         expenses+structures+investment-(expenses+structures+investment)*(inflation/100).
         <br />
+        1/hour-GDP/p is a better metric of efficiency, and
+        (income/hour)/median-home for productivity.
+        <br />
         "Go to the home, check it out, shut it down."
         <br />
         <br />
