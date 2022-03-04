@@ -137,8 +137,8 @@ export default class App extends React.Component {
         income
         <br />
         <br />
-        psychotic people enjoy pain, pitfall-investigate (whistleblower)
-        unconsious hysteria
+        going rogue: psychotic people enjoy pain, pitfall-investigate
+        (whistleblower) unconsious hysteria
         <br />
         Putin: "Ukraine did this by joining NATO."
         <br />
