@@ -1,4 +1,31 @@
 import React from "react";
+const oilimportRussia = [
+  [1996, 9251],
+  [1997, 4725],
+  [1998, 8683],
+  [1999, 32611],
+  [2000, 26382],
+  [2001, 32783],
+  [2002, 76690],
+  [2003, 92711],
+  [2004, 109151],
+  [2005, 149681],
+  [2006, 134646],
+  [2007, 151074],
+  [2008, 170264],
+  [2009, 205525],
+  [2010, 223370],
+  [2011, 227774],
+  [2012, 174612],
+  [2013, 168024],
+  [2014, 120345],
+  [2015, 135247],
+  [2016, 161286],
+  [2017, 142011],
+  [2018, 137010],
+  [2019, 189786],
+  [2020, 197720]
+];
 const oilprodliquid = [
   [1982, 583872],
   [1983, 561073],
@@ -654,6 +681,12 @@ class OIL extends React.Component {
     let exports = [];
     let barrels = [];
     let prices = [];
+    let importRussia = [];
+    oilimportRussia.map((year, i) => {
+      date.push(year[0]);
+      importRussia.push(year[1]);
+      return noData.push([year[0], 0]);
+    });
     oilprodliquid.map((year, i) => {
       date.push(year[0]);
       product.push(year[1]);
@@ -700,12 +733,13 @@ class OIL extends React.Component {
       if (!dataDataData[yearData[0]]) dataDataData[yearData[0]] = 0;
       dataDataData[yearData[0]] = dataDataData[yearData[0]] + yearData[1];
     });*/
+    const all = [...barrels, ...exports, ...finishes, ...importRussia];
     var lowPrices = Math.min(...prices);
-    var lowBarrels = Math.min(...barrels, ...exports, ...finishes);
+    var lowBarrels = Math.min(...all);
     var lowDrilling = Math.min(...drilling);
     var lowDate = Math.min(...date);
     var highPrices = Math.max(...prices);
-    var highBarrels = Math.max(...barrels, ...exports, ...finishes);
+    var highBarrels = Math.max(...all);
     var highDrilling = Math.max(...drilling);
     var highDate = Math.max(...date);
     //console.log(dataData);
@@ -720,6 +754,7 @@ class OIL extends React.Component {
       oilexports2,
       oilbarrels,
       oilprice,
+      oilimportRussia,
       noData,
       yAxisDrilling: highDrilling - lowDrilling,
       xAxisDrilling: highDate - lowDate,
@@ -790,6 +825,12 @@ class OIL extends React.Component {
     ]);
     //console.log(this.state.oilprice);
 
+    const oilimportRussia = this.state.oilimportRussia.map(([x, y]) => [
+      ((x - this.state.lowDate) / this.state.xAxisBarrels) *
+        0.9 *
+        this.props.lastWidth,
+      ((y - this.state.lowBarrels) / this.state.yAxisBarrels) * 150
+    ]);
     const oilprodliquid = this.state.oilprodliquid.map(([x, y]) => [
       ((x - this.state.lowDate) / this.state.xAxisBarrels) *
         0.9 *
@@ -1040,6 +1081,22 @@ class OIL extends React.Component {
                     width={2}
                     height={2}
                     stroke="yellow"
+                    fill="blue"
+                    strokeWidth={1}
+                    key={i}
+                  />
+                )
+            )}
+            {oilimportRussia.map(
+              ([x, y], i) =>
+                !isNaN(x) &&
+                !isNaN(y) && (
+                  <rect
+                    x={x}
+                    y={y}
+                    width={2}
+                    height={2}
+                    stroke="green"
                     fill="blue"
                     strokeWidth={1}
                     key={i}
