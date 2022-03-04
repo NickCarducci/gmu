@@ -213,7 +213,7 @@ export default class App extends React.Component {
         is not fuzzy. It is math.
         <br />
         <Cable
-          style={{ width: "700px", height: "360px" }}
+          style={{ width: "100%", height: "360px" }}
           onError={handleScollImgError}
           //img={true}
           src={
