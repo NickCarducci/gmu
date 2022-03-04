@@ -142,10 +142,9 @@ export default class App extends React.Component {
         <a href="https://fred.stlouisfed.org/graph/?g=MBbk">
           government and leases, commercial, wells, and subsidies
         </a>
-        <br />
-        600k of 18m barrels a day is peanuts! Wouldn’t you do this for KYC?
-        <br />
-        <br />
+        <h4>
+          600k of 18m barrels a day is peanuts! Wouldn’t you do this for KYC?
+        </h4>
         "Life sentence, 9 years, 7 years, people are no longer guilty by
         association, yet state vicg torts is the capacity-to-victim, alone.
         <br />
