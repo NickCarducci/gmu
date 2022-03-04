@@ -141,6 +141,19 @@ export default class App extends React.Component {
         600k of 18m barrels a day is peanuts! Wouldn’t you do this for KYC?
         <br />
         <br />
+        "Life sentence, 9 years, 7 years,
+        <br />
+        Did get the education needed to move forward in your life.”
+        <br />
+        Repairs and favors can help rehabilitation, for favors innovate-GDP/p
+        lower
+        <br />
+        <br />
+        How do you help a jobless individual due to a pandemic?
+        <br />
+        Nick Carducci BA in Political Science & Economics, Johns Hopkins
+        University (Graduated 2015)
+        <br />
         Let them keep their own copy and donate, with goods that they do not
         firesale (then, as 1y/0x elastic as cash), or with hours; so,
         contribute. Intern for them. Favors are imputable-GDP/p lowering.
@@ -160,6 +173,8 @@ export default class App extends React.Component {
         <br />
         <br />
         "Why are there people suffering from poverty?"
+        <br />
+        Nick Carducci - Product Research at Scopebook (2021–present)
         <br />
         Poverty is average expenditures-to-income, which are immutable
         characteristics of a sprint, scope, or book, or **operating costs, cash
