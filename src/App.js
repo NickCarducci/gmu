@@ -138,6 +138,10 @@ export default class App extends React.Component {
         could happen if labor-demand requests it, otherwise it is 1y/0x douche
         <br />
         <br />
+        real GDP is what? GDP discounted by the inflation rate? That is not
+        discounting nominal for actual fully. For it is only PCE and doesn’t
+        account for loss in productivity, and efficiency.
+        <br />
         "Go to the home, check it out, shut it down."
         <br />
         <br />
