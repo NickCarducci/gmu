@@ -198,10 +198,12 @@ export default class App extends React.Component {
         <a href="https://www.bls.gov/osmr/research-papers/2017/st170010.htm">
           employer contributions
         </a>
-        {space}
-        is also counted in CPI, *it is the same basket of goods, mean prices*.
-        If you don’t know what inflation is, why are you answering this
-        question? Inflation is imbued in GDP/p, which is
+        {space}(again the government telling us insurance by employment
+        contribution is, now increasingly, more expensive than a la carte or
+        rollover, especially open-ingredient-list) is also counted in CPI, *it
+        is the same basket of goods, mean prices*. If you don’t know what
+        inflation is, why are you answering this question? Inflation is imbued
+        in GDP/p, which is
         {space}
         <a href="https://fred.stlouisfed.org/graph/?g=MBqh">
           expenditures+structures+government
@@ -210,6 +212,22 @@ export default class App extends React.Component {
         and cutting costs (margins) can lower all enumerations of inflation. It
         is not fuzzy. It is math.
         <br />
+        <Cable
+          style={{ width: "700px", height: "360px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://fred.stlouisfed.org/graph/graph-landing.php?g=MBrO&width=670&height=275"
+          }
+          float="right"
+          title="https://fred.stlouisfed.org/graph/?g=MBrO"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         1/hour-GDP/p is a better metric of efficiency, and
         (income/hour)/median-home for productivity.
         <br />
