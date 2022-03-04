@@ -137,6 +137,11 @@ export default class App extends React.Component {
         <a href="https://data.worldbank.org/indicator/NY.GDP.PETR.RT.ZS?locations=RU">
           % as finance in America
         </a>
+        . All credit is a mess, surrendered donee-beneficiary freedom outright.
+        There is $170t outstanding and $2t available. Now they are leasing back
+        to us our royalty-able dollar fungible across the U.S. just deflate
+        capital loss (cash/income)*income and 1/12 industry as “collateral”
+        max-royalty instead. 4-7% 600k/day would not make for 3m/3m exports
         <br />
         <br />
         some kind of logic, what is an unconcious decision, hysteria? sometimes
