@@ -133,6 +133,9 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        psychotic people enjoy pain, pitfall-investigate (whistleblower)
+        unconsious hysteria
+        <br />
         Putin: "Ukraine did this by joining NATO."
         <br />
         Discount income by{space}
