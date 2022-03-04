@@ -133,6 +133,31 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Wayne Messam: “People are looking to the government for jobs at the
+        Federal level. Delitorious affect of overusage of opiods,” says the
+        pharmacist. "Clean drinking water, maximize technology," just put free
+        rider mutable 1y/0x elastic warn tort failures in jail.
+        <br />
+        <br />
+        <Cable
+          style={{ width: "700px", height: "400px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://fred.stlouisfed.org/graph/graph-landing.php?g=MBbk&width=670&height=275"
+          }
+          float="right"
+          title="https://fred.stlouisfed.org/graph/?g=MBbk"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <a href="https://fred.stlouisfed.org/graph/?g=MBbk">"Value Added%"</a>
+        <br />
+        <br />
         "Every constitutional protection has been violated ALL for the Jan 6
         protestors because of a political agenda," says Julia Kelly. Next time I
         will{space}
@@ -265,8 +290,8 @@ export default class App extends React.Component {
           title="https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MCRFPUS1&f=A"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
-          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
-          scrollTop={this.props.scrollTop}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
         />
         <Cable
           style={{ width: "100%" }}
@@ -281,8 +306,8 @@ export default class App extends React.Component {
           title="https://checksandbalancesproject.org/seven-things-you-need-to-know-about-oil-production-and-drilling-on-your-public-lands/"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
-          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
-          scrollTop={this.props.scrollTop}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
         />
         <h4>
           savings and money is going to be{space}
@@ -556,8 +581,8 @@ export default class App extends React.Component {
             title="towlie, 'i better get a little high'"
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
-            scrollTop={this.props.scrollTop}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
           />
         </a>
         {/*open ingredient lists*/}
@@ -630,8 +655,8 @@ export default class App extends React.Component {
           title="Carshield false bid pool non-concurrentable (non-appointmentable, finished non-input competing with consumers intent)"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
-          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
-          scrollTop={this.props.scrollTop}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
         />
         <h2>Surrendered-bids,</h2>
         "Will the USA be provoked into the war that’s happening?"
@@ -701,8 +726,8 @@ export default class App extends React.Component {
           title="A declined submission to PhD economists for all Mohammad Gani, 'Why does GDP/yr=mv1==mv2?'"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
-          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
-          scrollTop={this.props.scrollTop}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
         />
         <a href="https://qr.ae/pGd1AX">inflation</a>
         {space}0y/1x efficiency, GDP/hour-GDP/p, trust-breaking hypocrisy
@@ -800,8 +825,8 @@ export default class App extends React.Component {
           title="Why doesn't the USA get sanctioned after all its war crimes? - https://qr.ae/pGdTGc"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
-          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
-          scrollTop={this.props.scrollTop}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
         />
         Trump, 2/27/2022:
         <br />
@@ -919,8 +944,8 @@ export default class App extends React.Component {
           title="bewildering velocity of currency"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
-          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
-          scrollTop={this.props.scrollTop}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
         />
       </div>
     );
