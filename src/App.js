@@ -133,6 +133,9 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        "The nicest people, I can't believe you are standing on my neck"
+        <br />
+        <br />
         “40 mile empty caravan wouldn’t last.” Brian Kilmeade
         <br />
         <br />
