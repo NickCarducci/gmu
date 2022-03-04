@@ -142,9 +142,9 @@ export default class App extends React.Component {
         discounting nominal for actual fully. For it is only PCE and doesn’t
         account for loss in productivity, and efficiency.
         <br />
-        The official measure is CPI (PCE index), deflating GDP by GDP, for real,
-        would be always 0. real GDP discounts GDP for inflation rate, which is
-        expenses+structures+investment-(expenses+structures+investment)*(inflation/100).
+        The official measure is by CPI (PCE index), deflating GDP by GDP, for
+        real, would be always 0. real GDP discounts GDP for inflation rate,
+        which is expenses+structures+investment-expenses*(inflation%/100).
         <br />
         1/hour-GDP/p is a better metric of efficiency, and
         (income/hour)/median-home for productivity.
