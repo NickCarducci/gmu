@@ -166,6 +166,22 @@ export default class App extends React.Component {
         real, would be always 0. real GDP discounts GDP for inflation rate,
         which is expenses+structures+investment-expenses*(inflation%/100).
         <br />
+        PCE includes{space}
+        <a href="https://www.bls.gov/osmr/research-papers/2017/st170010.htm">
+          employer contributions
+        </a>
+        {space}
+        is also counted in CPI, *it is the same basket of goods, mean prices*.
+        If you don’t know what inflation is, why are you answering this
+        question? Inflation is imbued in GDP/p, which is
+        {space}
+        <a href="https://fred.stlouisfed.org/graph/?g=MBqh">
+          expenditures+structures+government
+        </a>
+        {space}
+        and cutting costs (margins) can lower all enumerations of inflation. It
+        is not fuzzy. It is math.
+        <br />
         1/hour-GDP/p is a better metric of efficiency, and
         (income/hour)/median-home for productivity.
         <br />
