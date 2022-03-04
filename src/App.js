@@ -133,6 +133,12 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        "ban the oil coming from Russia," leases are the same{space}
+        <a href="https://data.worldbank.org/indicator/NY.GDP.PETR.RT.ZS?locations=RU">
+          % as finance in America
+        </a>
+        <br />
+        <br />
         some kind of logic, what is an unconcious decision, hysteria? sometimes
         that is the ONLY CHOICE
         <br />
