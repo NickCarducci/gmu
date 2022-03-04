@@ -189,6 +189,14 @@ export default class App extends React.Component {
         1/hour-GDP/p is a better metric of efficiency, and
         (income/hour)/median-home for productivity.
         <br />
+        It is largely the{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=MBrP">same</a>. Do you
+        know the differences between them? If not, why do you care if inflation
+        is not all-monetary, but by increases in GDP/p? If it is, then tech
+        advancement can stop that loss in **purchasing power**. I need to be
+        able to call GDP/p growth something, if not **inflation**. I have been
+        calling it **tech deprecation**.
+        <br />
         "Go to the home, check it out, shut it down."
         <br />
         <br />
