@@ -133,6 +133,12 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Discount income by government and leases, commercial, wells, and
+        subsidies
+        <br />
+        600k of 18m barrels a day is peanuts! Wouldn’t you do this for KYC?
+        <br />
+        <br />
         Let them keep their own copy and donate, with goods that they do not
         firesale (then, as 1y/0x elastic as cash), or with hours; so,
         contribute. Intern for them. Favors are imputable-GDP/p lowering.
