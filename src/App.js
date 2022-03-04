@@ -145,8 +145,9 @@ export default class App extends React.Component {
         <br />
         Did get the education needed to move forward in your life.”
         <br />
-        Repairs and favors can help rehabilitation, for favors innovate-GDP/p
-        lower
+        Repairs and favors can help rehabilitation, for favors innovate-GDP/p,
+        unless it coalecses to land owners, essentially, for branded-IP is
+        nearly science, lower
         <br />
         <br />
         How do you help a jobless individual due to a pandemic?
