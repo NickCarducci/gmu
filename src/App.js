@@ -135,7 +135,27 @@ export default class App extends React.Component {
         </a>
         Can I join the paralympics as an elderly person? Not when to rent seek
         or truncated production tax is available - 1y/0x plundering/firesale; It
-        could happen if labor-demand requests it, otherwise it is 1y/0x douche
+        could happen if labor-demand requests it, otherwise it is 1y/0x douche.
+        The currency isn’t share-split, but the purchasing power is
+        strengthened, by lower labor costs.
+        <br />
+        <br />
+        Even amidst 3%/yr+ population (
+        <a href="https://vaults.biz/gdp">1800–1913</a>), mind you, the crowding
+        out only happens when laborless-demand - monetary measures have
+        exhausted tech advancement, -GDP/p, hand over fist. Call it 1y/0x price
+        elasticity, call it lost purchasing power, but real GDP/p is just{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=MBgO">
+          government and structures
+        </a>
+        . Has this been declared real GDP, or is the discount only by growth?
+        Isn’t that too short-lived to be an actualization? Why not just say
+        GDP-PCE is real GDP?
+        <br />
+        <br />
+        You can even see the tech deprecation of GDP/p in the
+        counterproductivity of laborless-demand by imputable-choring slavery,
+        re-imposed (<a href="https://vaults.biz/gdp">1814–1870</a>).
         <br />
         <br />
         real GDP is what? GDP discounted by the inflation rate? That is not
