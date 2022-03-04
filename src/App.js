@@ -139,6 +139,15 @@ export default class App extends React.Component {
         “Lower your costs, instead of wages.” Margin cap! Still wages
         <br />
         <br />
+        "Why are there people suffering from poverty?"
+        <br />
+        Poverty is average expenditures-to-income, which are immutable
+        characteristics of a sprint, scope, or book, or **operating costs, cash
+        flow, or profit and loss time-periods**, but not balance sheet, which is
+        like a disparity table, for they can amortize to zero and are gained in
+        relativity.
+        <br />
+        <br />
         Strong showing for the economy, data coming in, well ahead of what
         economists predicted.
         <br />
