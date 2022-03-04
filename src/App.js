@@ -133,6 +133,9 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        “40 mile empty caravan wouldn’t last.” Brian Kilmeade
+        <br />
+        <br />
         “Lower your costs, instead of wages.” Margin cap! Still wages
         <br />
         <br />
