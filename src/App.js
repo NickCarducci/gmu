@@ -133,6 +133,53 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        “Lower your costs, instead of wages.” Margin cap! Still wages
+        <br />
+        <br />
+        Strong showing for the economy, data coming in, well ahead of what
+        economists predicted.
+        <br />
+        "Why do we need to measure macroeconomic performance?"
+        <br />
+        Macroeconomics is the total cash flow (GDP/yr, all
+        expenditures+structures+government, *with basing off of state-Lands,
+        neighborhood-Land and brand-IP collateral*), yet higher prices are a
+        sign of *tech deprecation*, by currency{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=MBZv">share split</a>,
+        withstanding. Averaging per person fixes for population growth, and per
+        person fixes for **productivity** of expenses, yet not the{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=MC0U">
+          cost of living, or utility
+        </a>
+        . This is a measure of success for bona fide economists.
+        <br />
+        real GDP growth is structures and government growth
+        <br />
+        <br />
+        "How can we increase the economy using taxation?"
+        <br />
+        Nick Carducci - Candidate at U.S. Senate (2020–present)
+        <br />
+        Increasing the economy by measure of GDP/p is tech deprecation, by
+        actual or nominal increase in Demand, which is a dead-weight-box upon
+        GDP/hour-GDP/p 0y/1x efficiency, so you would just tax more than free
+        rider immutable, sewage-, police- and lawsuits-spending would require.
+        <br />
+        <br />
+        "What are the negative values that lead to poverty?"
+        <br />
+        Poverty is (expenditures/income average), and crowding out isn’t real
+        because labor makes both elastic, proven by GDP/p 0%/yr+ amongst 3%/yr+
+        population (e.g.{space}
+        <a href="https://vaults.biz/gdp">1800–1913</a>). So, a higher value of
+        material than labor, or **lower average labor, from a foreign
+        investor**, perhaps.
+        <br />
+        Efficiency begets a smaller GDP/p, for{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=MBph">example</a>
+        .
+        <br />
+        <br />
         “I’m not a fan of putting people away before they are convicted, but I
         am of a judge doing that.”
         <br />
