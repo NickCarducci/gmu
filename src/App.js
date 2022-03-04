@@ -133,6 +133,8 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Putin: "Ukraine did this by joining NATO."
+        <br />
         Discount income by{space}
         <a href="https://fred.stlouisfed.org/graph/?g=MBbk">
           government and leases, commercial, wells, and subsidies
