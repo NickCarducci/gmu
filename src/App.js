@@ -133,8 +133,14 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h4>
+          <a href="https://www.nrdc.org/experts/josh-axelrod/course-correction-federal-oil-and-gas-leasing-needs-fixing">
+            .23
+          </a>
+          *18m*$100/330m=$1/p
+        </h4>
         to put more in the marketplace - that is Savers' voting rights and
-        roualties, due. don't lease it back to us
+        roualties, due. don't lease it back to us.
         <br />
         "ban the oil coming from Russia," leases are the same{space}
         <a href="https://data.worldbank.org/indicator/NY.GDP.PETR.RT.ZS?locations=RU">
