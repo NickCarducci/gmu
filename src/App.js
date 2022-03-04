@@ -142,6 +142,10 @@ export default class App extends React.Component {
         discounting nominal for actual fully. For it is only PCE and doesn’t
         account for loss in productivity, and efficiency.
         <br />
+        The official measure is CPI (PCE index), deflating GDP by GDP, for real,
+        would be always 0. real GDP discounts GDP for inflation rate, which is
+        expenses+structures+investment-(expenses+structures+investment)*(inflation/100).
+        <br />
         "Go to the home, check it out, shut it down."
         <br />
         <br />
