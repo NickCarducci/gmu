@@ -134,7 +134,7 @@ export default class App extends React.Component {
           General Maintenance Unit
         </a>
         Can I join the paralympics as an elderly person? Not when to rent seek
-        or truncated production tax is available
+        or truncated production tax is available - 1y/0x plundering/firesale
         <br />
         <br />
         "Go to the home, check it out, shut it down."
@@ -147,7 +147,7 @@ export default class App extends React.Component {
         <br />
         <br />
         <Cable
-          style={{ width: "700px", height: "400px" }}
+          style={{ width: "700px", height: "360px" }}
           onError={handleScollImgError}
           //img={true}
           src={
