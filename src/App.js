@@ -146,9 +146,10 @@ export default class App extends React.Component {
         600k of 18m barrels a day is peanuts! Wouldn’t you do this for KYC?
         <br />
         <br />
-        "Life sentence, 9 years, 7 years,
+        "Life sentence, 9 years, 7 years, people are no longer guilty by
+        association, yet state vicg torts is the capacity-to-victim, alone.
         <br />
-        Did get the education needed to move forward in your life.”
+        ...Did get the tech needed to move forward in your life.”
         <br />
         Repairs and favors can help rehabilitation, for favors innovate-GDP/p,
         nominally but also furthermore when coalecses to land owners,
