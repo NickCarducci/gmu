@@ -133,6 +133,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        Getting after Putin to scapegoat oligarchs, doesn't destroy wealth, only
+        income
+        <br />
+        <br />
         psychotic people enjoy pain, pitfall-investigate (whistleblower)
         unconsious hysteria
         <br />
