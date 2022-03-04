@@ -133,6 +133,10 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        “I’m not a fan of putting people away before they are convicted, but I
+        am of a judge doing that.”
+        <br />
+        <br />
         <h4>
           <a href="https://www.nrdc.org/experts/josh-axelrod/course-correction-federal-oil-and-gas-leasing-needs-fixing">
             .23
