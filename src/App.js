@@ -134,7 +134,8 @@ export default class App extends React.Component {
           General Maintenance Unit
         </a>
         Can I join the paralympics as an elderly person? Not when to rent seek
-        or truncated production tax is available - 1y/0x plundering/firesale
+        or truncated production tax is available - 1y/0x plundering/firesale; It
+        could happen if labor-demand requests it, otherwise it is 1y/0x douche
         <br />
         <br />
         "Go to the home, check it out, shut it down."
