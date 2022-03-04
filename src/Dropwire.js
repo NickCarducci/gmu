@@ -108,7 +108,6 @@ class Cable extends React.Component {
             .replaceAll(";", `",`)
             .replaceAll(": ", `: "`)
         );*/
-        //console.log(cacheStyle);
         //console.log(cache, continuee.offsetHeight, continuee.offsetWidth);
         if (!cache && (this.state.loaded || this.props.img)) {
           //if (continuee.offsetHeight !== 0)
@@ -201,6 +200,7 @@ class Cable extends React.Component {
       <div
         ref={this.page}
         style={{
+          textAlign: float,
           position: "relative",
           boxShadow: "inset 0px 0px 50px 15px rgb(200,100,120)",
           //width: this.state.framewidth,
@@ -209,11 +209,11 @@ class Cable extends React.Component {
           shapeOutside: "rect()",
           float,
           overflow: "hidden",
-          height: !isNaN(optionalwidth) ? "auto" : optionalheight,
+          height: optionalheight,
           /*this.state.frameheight
             ? this.state.frameheight + 10
             : "max-content",*/
-          width: !isNaN(optionalheight) ? "auto" : optionalwidth // "max-content"
+          width: optionalwidth // "max-content"
           //maxWidth: "100%"
           //minWidth: optionalwidth // "max-content"
         }}
@@ -253,7 +253,6 @@ class Cable extends React.Component {
               //overflowX: "auto",
               //height: "100%",
               height: optionalheight, //"100%"
-
               width: "100%"
             }}
             ref={this.props.fwd}
